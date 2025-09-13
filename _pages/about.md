@@ -11,14 +11,12 @@ redirect_from:
 
 Research Interests
 ====== 
-Research Interests include the following categories:
 * Medical Image Computing
 * Computer Assisted Intervention
 * Interventional Surgical Robotics
 
 Education
 ======
-
 * 2020, Ph.D in Beijing Institute of Technology
 * 2014, M.S. in in Beijing Institute of Technology 
 * 2012, B.S. in Beijing Institute of Technology
