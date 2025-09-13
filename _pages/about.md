@@ -44,17 +44,13 @@ Work experience
 
 Professional/Scholarly Activity
 ======
-Reviewer for journals and conferences, including:
-IEEE Transactions on Biomedical Engineering
-IEEE Journal of Biomedical and Health Informatics
-IEEE Transactions on Medical Imaging
-International Journal of Computer Assisted Radiology and Surgery
-International Conference on Medical Image Computing and Computer-Assisted Intervention
-IEEE International Conference on Multimedia&Expo
-<img width="432" height="123" alt="image" src="https://github.com/user-attachments/assets/2c8eaf8e-85d6-4cdd-b1c1-93dfa187267e" />
-
-
-
+* Reviewer for journals and conferences, including:
+  * IEEE Transactions on Biomedical Engineering
+  * IEEE Journal of Biomedical and Health Informatics
+  * IEEE Transactions on Medical Imaging
+  * International Journal of Computer Assisted Radiology and Surgery
+  * International Conference on Medical Image Computing and Computer-Assisted Intervention
+  * IEEE International Conference on Multimedia&Expo
 
 Publications
 ======
