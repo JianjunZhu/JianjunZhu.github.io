@@ -38,6 +38,24 @@ Work experience
 * Jun. 2014 - Jun. 2015, Software Engineer
   * LUSTER LightTech Co., Ltd., Beĳing, China
 
+Research Grants
+======
+* National Key Research and Development Program (2024YFE0201700)
+  * Period: 2025.01 – 2027.12
+  * Title: Study on Interventional Surgical Robot Diagnosis and Treatment System for Intracerebral Artery Disease. 
+  * Role: Co-PI. 
+
+* Project supported by National Natural Science Foundation of China (No. 82402410) 
+  * Period: 2025.01 – 2027.12
+  * Title: Research on Instrument Force Perception and Safety Control Methods for Vascular Interventional Robot Based on Multimodal AI Models. 
+  * Role: Principal Investigator. 
+
+* Project funded by China Postdoctoral Science Foundation (No. 2021M700772)
+  * Period: 2021.11 – 2024.07
+  * Title: Instrument Positioning and Intelligent Control for Endovascular Interventional Robot. 
+  * Role: Principal Investigator. 
+
+
 Professional/Scholarly Activity
 ======
 * Reviewer for journals and conferences, including:
