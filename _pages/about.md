@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -37,7 +37,8 @@ Work experience
 * Jul. 2021 – Jul. 2024, Post-doctoral Researcher
   * Department of Radiology, Zhongda Hospital, Medical School, Southeast University, Nanjing, China.
 
-* Jun. 2014 - Jun. 2015, Software Engineer, LUSTER LightTech Co., Ltd., Beĳing, China
+* Jun. 2014 - Jun. 2015, Software Engineer
+  * LUSTER LightTech Co., Ltd., Beĳing, China
 
 Professional/Scholarly Activity
 ======
@@ -48,6 +49,13 @@ Professional/Scholarly Activity
   * International Journal of Computer Assisted Radiology and Surgery
   * International Conference on Medical Image Computing and Computer-Assisted Intervention
   * IEEE International Conference on Multimedia&Expo
+
+Professional Certification and Awards
+======
+* 2024, First Winner Award, MICCAI Challenge on Fast, Low-resource, and Accurate oRgan and Pan-cancer sEgmentation in Abdomen CT (Flare 2024 Task2). 
+* 2023, Meritorious Winner Award, MICCAI Challenge on Fast, Low-resource, and Accurate oRgan and Pan-cancer sEgmentation in Abdomen CT (Flare 2023). 
+* 2023, First Winner Award, Liver Tumor Segmentation Task, The 6th International Symposium on Image Computing and Digital Medicine.
+
 
 Publications
 ======
