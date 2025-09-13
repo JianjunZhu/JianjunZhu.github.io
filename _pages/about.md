@@ -9,6 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+Research Interests
+====== 
+Research Interests include the following categories:
+* Medical Image Computing:
+  * Algorithms for organs, structures, and lesions segmentation in multimodal medical imaging; Interventional planning based on multimodal imaging;  AI foundation models for cross-modal medical images.
+* Computer Assisted Intervention:
+  * Cross-modal medical image registration and fusion algorithms; Identification algorithms for various interventional instruments in intraoperative X-ray video; Image-based recognition of patients’ respiratory states and phases.
+* Interventional Surgical Robotics:
+  * Robot-assisted control (Co-pilot systems); Closed-loop robotic control based on fusion of multi-sensor information; Robotic AI agents.
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
