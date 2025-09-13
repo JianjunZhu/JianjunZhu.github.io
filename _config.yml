@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jianjun Zhu"
+site_theme               : "air" # Currently available options are "default", "air"
+title                    : "Personal Page of Jianjun Zhu"
 title_separator          : "-"
 name                     : &name "Jianjun Zhu"
 description              : &description "Assistant Professor at MUST"   # Update this with a general description of your site, this is the default if not overridden by a page
