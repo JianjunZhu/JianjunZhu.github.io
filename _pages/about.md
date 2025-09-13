@@ -21,35 +21,27 @@ Research Interests include the following categories:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* 2020, Ph.D in Beijing Institute of Technology
+* 2014, M.S. in in Beijing Institute of Technology 
+* 2012, B.S. in Beijing Institute of Technology
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep. 2025 - Now, Assistant Professor
+  * School of Computer Science and Engineering, Faculty of Innovation Engineering, Macau University of Science and Technology, Macau, China.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct. 2020 – Aug. 2025, Research Director
+  * Hanglok-Tech. Co., Ltd., Hengqin, China
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Oct. 2024 – Seq. 2025, Honorary Post-doctor
+  * Department of Computer Science and Engineering, Chinese University of Hong Kong, Hong Kong, China.
+
+* Jul. 2021 – Jul. 2024, Post-doctoral Researcher
+  * Department of Radiology, Zhongda Hospital, Medical School, Southeast University, Nanjing, China.
+
+* Jun. 2014 - Jun. 2015, Software Engineer, LUSTER LightTech Co., Ltd., Beĳing, China
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -57,18 +49,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
