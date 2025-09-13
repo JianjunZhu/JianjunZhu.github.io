@@ -1,13 +1,13 @@
 ---
-title: "A Highly Efficient Segmentation Method for Abdominal Multi-organs on Laptop"
+title: "Advancing Multi-organ and Pan-cancer Segmentation in Abdominal CT Scans through Scale-aware and Self-Attentive Modulation"
 collection: publications
 category: conferences
-permalink: /publication/2024-MICCAI-Flare
+permalink: /publication/2023-MICCAI-Flare
 excerpt: ''
-date: 2025-07-09
+date: 2024-07-01
 venue: 'MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation'
-paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11'
-citation: 'J. Xiong, P. Lyu, T. Lin, K. Song, C. Wang, and J. Zhu*, “A Highly Efficient Segmentation Method for Abdominal Multi-organs on Laptop,” in MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation, Springer, 2024, pp. 116–131.'
+paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-58776-4_8'
+citation: 'P. Lyu, J. Xiong, W. Fang, W. Zhang, C. Wang, and J. Zhu*, “Advancing Multi-organ and Pan-cancer Segmentation in Abdominal CT Scans through Scale-aware and Self-Attentive Modulation,” in MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation, Springer, 2023, pp. 84–101.'
 ---
 
 
