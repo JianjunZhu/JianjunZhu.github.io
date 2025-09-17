@@ -63,9 +63,8 @@ Publications
 
 #### Journal Articles
 
-- **J. Zhu\#**, C. Wang, Y. Zhang, M. Zhan, W. Zhao, S. Teng, L. Lu\*, and G.-J. Teng\*, “3D/2D Vessel Registration based on Monte Carlo Tree Search and Manifold Regularization,” *IEEE Transactions on Medical Imaging*, vol. 43, no. 5, pp. 1727–1739, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10375552)
-- Y. Liu, Y. Wang, J. Xiao, X. He, C. Wang, J. Zhu, P. Lv, H. Cai, L. Qiu, Y. Zhu, Y. Li, and L. Lu, “Computed tomography and ultrasound-guided robotic assistance in percutaneous puncture in abdominal phantom and porcine liver models,” IEEE Transactions on Medical Robotics and Bionics, vol. 7, no. 2,
-pp. 542–549, 2025.  doi: 10.1109/TMRB.2025.3550644.
+- **J. Zhu**, C. Wang, Y. Zhang, M. Zhan, W. Zhao, S. Teng, L. Lu\*, and G.-J. Teng\*, “3D/2D Vessel Registration based on Monte Carlo Tree Search and Manifold Regularization,” *IEEE Transactions on Medical Imaging*, vol. 43, no. 5, pp. 1727–1739, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10375552)
+- Y. Liu, Y. Wang, J. Xiao, X. He, C. Wang, **J. Zhu**, P. Lv, H. Cai, L. Qiu, Y. Zhu, Y. Li, and L. Lu, “Computed Tomography and Ultrasound-guided Robotic Assistance in Percutaneous Puncture in Abdominal Phantom and Porcine Liver Models,” *IEEE Transactions on Medical Robotics and Bionics*, vol. 7, no. 2, pp. 542–549, 2025. [[Paper]](https://doi.org/10.1109/TMRB.2025.3550644)
 
 
 #### Conference Proceedings
