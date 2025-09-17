@@ -24,7 +24,7 @@ Education
 * 2014, M.S. in in Beijing Institute of Technology 
 * 2012, B.S. in Beijing Institute of Technology
 
-Work experience
+Work Experience
 ======
 * Sep. 2025 - Now, Assistant Professor
   * School of Computer Science and Engineering, Faculty of Innovation Engineering, Macau University of Science and Technology, Macau, China.
