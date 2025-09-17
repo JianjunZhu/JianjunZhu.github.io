@@ -11,12 +11,12 @@ redirect_from:
 
 Research Interests
 ====== 
-- Join Our Team — Research Opportunities for Master’s & PhD Students
+Join Our Team — Research Opportunities for Master’s & PhD Students
 - We are looking for motivated students interested in working at the cutting edge of medical imaging, AI, and surgical robotics. Our team explores how advanced algorithms and robotic systems can transform the future of healthcare.
 	- In **Medical Image Computing**, you will work on developing deep learning methods for analyzing CT, MRI, and X-ray data, improving diagnosis and planning.
 	- In **Computer-Assisted Intervention**, you will design real-time systems that guide doctors during minimally invasive surgeries.
 	- In **Interventional Surgical Robotics**, you will help create intelligent robots that can collaborate with surgeons, combining imaging and force sensing to make surgery safer and more precise.
-- If you are passionate about AI, robotics, and healthcare innovation, we welcome you to join us and contribute to next-generation surgical technologies.
+If you are passionate about AI, robotics, and healthcare innovation, we welcome you to join us and contribute to next-generation surgical technologies.
 
 Education
 ======
@@ -60,7 +60,7 @@ Research Grants
 
 Publications
 ======
-**Selected Five**
+**Selected**
 
 - P. Lyu, J. Zhang, L. Zhang, W. Liu\*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
 
