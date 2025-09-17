@@ -55,12 +55,12 @@ Research Grants
   * Title: Instrument Positioning and Intelligent Control for Endovascular Interventional Robot. 
   * Role: Principal Investigator. 
 
-Publications (Selected Five)
+Publications
 ======
+**Selected Five**
+
 - **J. Zhu**, C. Wang, Y. Zhang, M. Zhan, W. Zhao, S. Teng, L. Lu\*, and G.-J. Teng\*, “3D/2D Vessel Registration based on Monte Carlo Tree Search and Manifold Regularization,” *IEEE Transactions on Medical Imaging*, vol. 43, no. 5, pp. 1727–1739, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10375552)
 
-Publications (All)
-======
 
 **Journal Articles**
 
@@ -78,7 +78,15 @@ Publications (All)
 
 - **J. Zhu**, C. Wang, S. Teng, J. Lu, P. Lyu, P. Zhang, J. Xu, L. Lu\*, and G.-J. Teng\*, “Embedding expertise knowledge into inverse treatment planning for low-dose-rate brachytherapy of hepatic malignancies,” *Medical Physics*, vol. 51, no. 1, pp. 348–362, 2024. [[Paper]](https://doi.org/10.1002/mp.16627)
 
+- **J. Zhu**, C. Wang, Y. Zhang, M. Zhan, W. Zhao, S. Teng, L. Lu\*, and G.-J. Teng\*, “3D/2D Vessel Registration based on Monte Carlo Tree Search and Manifold Regularization,” *IEEE Transactions on Medical Imaging*, vol. 43, no. 5, pp. 1727–1739, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10375552)
+
 - G. Zhang, H.-C. Wong\*, **J. Zhu**\*, T. An, and C. Wang, “Jigsaw training-based background reverse attention transformer network for guidewire segmentation,” *International Journal of Computer Assisted Radiology and Surgery*, vol. 18, no. 4, pp. 653–661, 2023. [[Paper]](https://link.springer.com/article/10.1007/s11548-022-02803-z)
+
+- S. Jiang, S. Teng, J. Lu, C. Wang, T. Wen, **J. Zhu**, and G.-J. Teng\*, “Pixeltopois: A pixel-topology-coupled guidewire tip segmentation framework for robot-assisted intervention,” *International Journal of Computer Assisted Radiology and Surgery*, vol. 17, no. 2, pp. 329–341, 2022. [[Paper]](https://link.springer.com/article/10.1007/s11548-021-02529-4)
+
+- **J. Zhu**, H. Li, D. Ai\*, Q. Yang, J. Fan, Y. Huang, H. Song, Y. Han, and J. Yang\*, “Iterative closest graph matching for non-rigid 3d/2d coronary arteries registration,” *Computer Methods and Programs in Biomedicine*, vol. 199, p. 105 901, 2021. [[Paper]](https://doi.org/10.1016/j.cmpb.2020.105901)
+
+- J. Yang, **J. Zhu**, D. Y. Sze, L. Cui, X. Li, Y. Bai, D. Ai, J. Fan, H. Song, and F. Duan\*, “Feasibility of augmented reality–guided transjugular intrahepatic portosystemic shunt,” *Journal of Vascular and Interventional Radiology*, vol. 31, no. 12, pp. 2098–2103, 2020. [[Paper]](https://doi.org/10.1016/j.jvir.2020.07.025)
 
 
 **Conference Proceedings**
