@@ -76,7 +76,9 @@ Publications (All)
 
 - T. Zhang\*, A. Gao, **J. Zhu**, B. Zhang, J. Lin, and Y. Ni, “A vascular shape reconstruction method based on multicore fbg sensing,” *IEEE Sensors Journal*, vol. 24, no. 3, pp. 2769–2778, 2024. [[Paper]](https://doi.org/10.1109/JSEN.2023.3334484)
 
-- 
+- **J. Zhu**, C. Wang, S. Teng, J. Lu, P. Lyu, P. Zhang, J. Xu, L. Lu\*, and G.-J. Teng\*, “Embedding expertise knowledge into inverse treatment planning for low-dose-rate brachytherapy of hepatic malignancies,” *Medical Physics*, vol. 51, no. 1, pp. 348–362, 2024. [[Paper]](https://doi.org/10.1002/mp.16627)
+
+- G. Zhang, H.-C. Wong\*, **J. Zhu**\*, T. An, and C. Wang, “Jigsaw training-based background reverse attention transformer network for guidewire segmentation,” *International Journal of Computer Assisted Radiology and Surgery*, vol. 18, no. 4, pp. 653–661, 2023. [[Paper]](https://link.springer.com/article/10.1007/s11548-022-02803-z)
 
 
 **Conference Proceedings**
