@@ -11,7 +11,7 @@ redirect_from:
 
 Join US — Research Opportunities
 ====== 
-- We are looking for motivated students interested in working at the cutting edge of medical imaging, AI, and surgical robotics. Our team explores how advanced algorithms and robotic systems can transform the future of healthcare.
+We are looking for motivated students interested in working at the cutting edge of medical imaging, AI, and surgical robotics. Our team explores how advanced algorithms and robotic systems can transform the future of healthcare.
 	- In **Medical Image Computing**, you will work on developing deep learning methods for analyzing CT, MRI, and X-ray data, improving diagnosis and planning.
 	- In **Computer-Assisted Intervention**, you will design real-time systems that guide doctors during minimally invasive surgeries.
 	- In **Interventional Surgical Robotics**, you will help create intelligent robots that can collaborate with surgeons, combining imaging and force sensing to make surgery safer and more precise.
