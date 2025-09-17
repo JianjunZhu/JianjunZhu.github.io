@@ -66,11 +66,14 @@ Publications (Others)
 
 - Y. Liu, Y. Wang, J. Xiao, X. He, C. Wang, **J. Zhu**, P. Lv, H. Cai, L. Qiu, Y. Zhu, Y. Li, and L. Lu, “Computed Tomography and Ultrasound-guided Robotic Assistance in Percutaneous Puncture in Abdominal Phantom and Porcine Liver Models,” *IEEE Transactions on Medical Robotics and Bionics*, vol. 7, no. 2, pp. 542–549, 2025. [[Paper]](https://doi.org/10.1109/TMRB.2025.3550644)
 
-- Y. Li, N. Fan, X. He, **J. Zhu**, J. Zhang*, and L. Lu*, “Research Progress in Predicting Hepatocellular Carcinoma with Portal Vein Tumour Thrombus in the Era of Artificial Intelligence,” *Journal of Hepatocellular Carcinoma*, pp. 1429–1438, 2024. [[Paper]](https://doi.org/10.2147/JHC.S474922)
+- Y. Li, N. Fan, X. He, **J. Zhu**, J. Zhang*, and L. Lu\*, “Research Progress in Predicting Hepatocellular Carcinoma with Portal Vein Tumour Thrombus in the Era of Artificial Intelligence,” *Journal of Hepatocellular Carcinoma*, pp. 1429–1438, 2024. [[Paper]](https://doi.org/10.2147/JHC.S474922)
 
-- P. Lyu, W. Liu*, T. Lin, J. Zhang, Y. Liu, C. Wang, and **J. Zhu**, “Semi-supervised Segmentation of Abdominal Organs and Liver Tumor: Uncertainty Rectified Curriculum Labeling Meets X-fuse,” *Machine Learning: Science and Technology*, vol. 5, no. 2, p. 025 047, 2024. [[Paper]](https://doi.org/10.1088/2632-2153/ad4c38) [[Code]](https://github.com/lyupengju/X-Fuse)
+- P. Lyu, W. Liu\*, T. Lin, J. Zhang, Y. Liu, C. Wang, and **J. Zhu**, “Semi-supervised Segmentation of Abdominal Organs and Liver Tumor: Uncertainty Rectified Curriculum Labeling Meets X-fuse,” *Machine Learning: Science and Technology*, vol. 5, no. 2, p. 025 047, 2024. [[Paper]](https://doi.org/10.1088/2632-2153/ad4c38) [[Code]](https://github.com/lyupengju/X-Fuse)
 
-- C. Wang, L. Guo, **J. Zhu**, L. Zhu, C. Li, H. Zhu, A. Song, L. Lu, G.-J. Teng*, N. Navab, and Z. Jiang, “Review of robotic systems for thoracoabdominal puncture interventional surgery,” *APL bioengineering*, vol. 8, no. 2, 2024. [[Paper]]()
+- C. Wang, L. Guo, **J. Zhu**, L. Zhu, C. Li, H. Zhu, A. Song, L. Lu, G.-J. Teng\*, N. Navab, and Z. Jiang, “Review of robotic systems for thoracoabdominal puncture interventional surgery,” *APL bioengineering*, vol. 8, no. 2, 2024. [[Paper]](https://doi.org/10.1063/5.0180494)
+
+- X. Wang, **J. Zhu**, Y. Wang, C. Wang, P. Chen, P. Lyu, J. Xu, and G.-J. Teng\*, “A respiratory signal monitoring method based on dual-pathway deep learning networks in image-guided robotic-assisted intervention system,” *The International Journal of Medical Robotics and Computer Assisted Surgery*, vol. 20, no. 6, e70017, 2024. [[Paper]](https://doi.org/10.1002/rcs.70017)
+
 
 **Conference Proceedings**
 
