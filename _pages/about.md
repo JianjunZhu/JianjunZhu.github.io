@@ -70,6 +70,8 @@ Publications (Others)
 
 - P. Lyu, W. Liu*, T. Lin, J. Zhang, Y. Liu, C. Wang, and **J. Zhu**, “Semi-supervised Segmentation of Abdominal Organs and Liver Tumor: Uncertainty Rectified Curriculum Labeling Meets X-fuse,” *Machine Learning: Science and Technology*, vol. 5, no. 2, p. 025 047, 2024. [[Paper]](https://doi.org/10.1088/2632-2153/ad4c38) [[Code]](https://github.com/lyupengju/X-Fuse)
 
+- C. Wang, L. Guo, **J. Zhu**, L. Zhu, C. Li, H. Zhu, A. Song, L. Lu, G.-J. Teng*, N. Navab, and Z. Jiang, “Review of robotic systems for thoracoabdominal puncture interventional surgery,” *APL bioengineering*, vol. 8, no. 2, 2024. [[Paper]]()
+
 **Conference Proceedings**
 
 Professional/Scholarly Activity
