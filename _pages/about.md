@@ -72,6 +72,9 @@ Professional Certification and Awards
 * 2023, Meritorious Winner Award, MICCAI Challenge on Fast, Low-resource, and Accurate oRgan and Pan-cancer sEgmentation in Abdomen CT (Flare 2023). 
 * 2023, First Winner Award, Liver Tumor Segmentation Task, The 6th International Symposium on Image Computing and Digital Medicine.
 
+#### Published
+
+- <strong>J. Zhu</strong>, C. Wang, Y. Zhang, M. Zhan, W. Zhao, S. Teng, L. Lu*, and G.-J. Teng*, “3d/2d vessel registration based on monte carlo tree search and manifold regularization,” IEEE Transactions on Medical Imaging, vol. 43, no. 5, pp. 1727–1739, 2023.
 
 Publications
 ======
