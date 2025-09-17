@@ -57,7 +57,7 @@ Research Grants
 
 Publications
 ======
-**Selected Five Representative**
+**Selected Five**
 
 - P. Lyu, J. Zhang, L. Zhang, W. Liu*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
 
