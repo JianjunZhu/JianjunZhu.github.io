@@ -59,13 +59,16 @@ Publications
 ======
 **Selected Five Representative**
 
+- P. Lyu, J. Zhang, L. Zhang, W. Liu*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
+
+- J. Xiong, P. Lyu, T. Lin, K. Song, C. Wang, and **J. Zhu**\*, “A highly efficient segmentation method for abdominal multi-organs on laptop,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2024, pp. 116–131. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
+
 - **J. Zhu**, C. Wang, Y. Zhang, M. Zhan, W. Zhao, S. Teng, L. Lu\*, and G.-J. Teng\*, “3D/2D Vessel Registration based on Monte Carlo Tree Search and Manifold Regularization,” *IEEE Transactions on Medical Imaging*, vol. 43, no. 5, pp. 1727–1739, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10375552)
 
 - **J. Zhu**, C. Wang, S. Teng, J. Lu, P. Lyu, P. Zhang, J. Xu, L. Lu\*, and G.-J. Teng\*, “Embedding expertise knowledge into inverse treatment planning for low-dose-rate brachytherapy of hepatic malignancies,” *Medical Physics*, vol. 51, no. 1, pp. 348–362, 2024. [[Paper]](https://doi.org/10.1002/mp.16627)
 
 - **J. Zhu**, H. Li, D. Ai\*, Q. Yang, J. Fan, Y. Huang, H. Song, Y. Han, and J. Yang\*, “Iterative closest graph matching for non-rigid 3d/2d coronary arteries registration,” *Computer Methods and Programs in Biomedicine*, vol. 199, p. 105 901, 2021. [[Paper]](https://doi.org/10.1016/j.cmpb.2020.105901)
 
-- 
 
 **Journal Articles**
 
@@ -111,6 +114,10 @@ Publications
 
 **Conference Proceedings**
 - P. Lyu, J. Zhang, L. Zhang, W. Liu*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
+
+- J. Xiong, P. Lyu, T. Lin, K. Song, C. Wang, and **J. Zhu**\*, “A highly efficient segmentation method for abdominal multi-organs on laptop,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2024, pp. 116–131. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
+
+- P. Lyu, J. Xiong, W. Fang, W. Zhang, C. Wang, and **J. Zhu**\*, “Advancing multi-organ and pan-cancer segmentation in abdominal ct scans through scale-aware and self-attentive modulation,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2023, pp. 84–101. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-58776-4_8)[[Code]](https://github.com/lyupengju/Flare23)
 
 - C. Wang, **J. Zhu**, X. Li, S. Chen, Z. Chen, Y. Huang, Y. Wu, M. Zhan, and L. Lu\*, “Vision servoing endovascular interventional robot system: Design and verification,” in *2024 IEEE International Conference on Cyborg and Bionic Systems (CBS)*, IEEE, 2024, pp. 126–132.
 
