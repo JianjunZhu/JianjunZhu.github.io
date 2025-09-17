@@ -57,7 +57,7 @@ Research Grants
 
 Publications
 ======
-**Selected Five**
+**Selected Five Representative**
 
 - **J. Zhu**, C. Wang, Y. Zhang, M. Zhan, W. Zhao, S. Teng, L. Lu\*, and G.-J. Teng\*, “3D/2D Vessel Registration based on Monte Carlo Tree Search and Manifold Regularization,” *IEEE Transactions on Medical Imaging*, vol. 43, no. 5, pp. 1727–1739, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10375552)
 
@@ -87,6 +87,10 @@ Publications
 - **J. Zhu**, H. Li, D. Ai\*, Q. Yang, J. Fan, Y. Huang, H. Song, Y. Han, and J. Yang\*, “Iterative closest graph matching for non-rigid 3d/2d coronary arteries registration,” *Computer Methods and Programs in Biomedicine*, vol. 199, p. 105 901, 2021. [[Paper]](https://doi.org/10.1016/j.cmpb.2020.105901)
 
 - J. Yang, **J. Zhu**, D. Y. Sze, L. Cui, X. Li, Y. Bai, D. Ai, J. Fan, H. Song, and F. Duan\*, “Feasibility of augmented reality–guided transjugular intrahepatic portosystemic shunt,” *Journal of Vascular and Interventional Radiology*, vol. 31, no. 12, pp. 2098–2103, 2020. [[Paper]](https://doi.org/10.1016/j.jvir.2020.07.025)
+
+- **J. Zhu**, J. Fan, S. Guo, D. Ai, H. Song, C. Wang, S. Zhou, and J. Yang\*, “Heuristic tree searching for pose-independent 3d/2d rigid registration of vessel structures,” *Physics in Medicine & Biology*, vol. 65, no. 5, p. 055 010, 2020. [[Paper]](https://doi.org/10.1088/1361-6560/ab6b43)
+
+- H. Fang, D. Ai\*, W. Cong, S. Yang, **J. Zhu**, Y. Huang, H. Song, Y. Wang, and J. Yang\*, “Topology optimization using multiple-possibility fusion for vasculature extraction,” *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 30, no. 2, pp. 442–456, 2019. [[Paper]](https://doi.org/10.1109/TCSVT.2019.2892986)
 
 
 **Conference Proceedings**
