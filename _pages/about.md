@@ -74,6 +74,10 @@ Publications (All)
 
 - X. Wang, **J. Zhu**, Y. Wang, C. Wang, P. Chen, P. Lyu, J. Xu, and G.-J. Teng\*, “A respiratory signal monitoring method based on dual-pathway deep learning networks in image-guided robotic-assisted intervention system,” *The International Journal of Medical Robotics and Computer Assisted Surgery*, vol. 20, no. 6, e70017, 2024. [[Paper]](https://doi.org/10.1002/rcs.70017)
 
+- T. Zhang\*, A. Gao, **J. Zhu**, B. Zhang, J. Lin, and Y. Ni, “A vascular shape reconstruction method based on multicore fbg sensing,” *IEEE Sensors Journal*, vol. 24, no. 3, pp. 2769–2778, 2024. [[Paper]](https://doi.org/10.1109/JSEN.2023.3334484)
+
+- 
+
 
 **Conference Proceedings**
 
