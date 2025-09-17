@@ -59,7 +59,7 @@ Publications
 ======
 **Selected Five**
 
-- P. Lyu, J. Zhang, L. Zhang, W. Liu*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
+- P. Lyu, J. Zhang, L. Zhang, W. Liu\*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
 
 - J. Xiong, P. Lyu, T. Lin, K. Song, C. Wang, and **J. Zhu**\*, “A highly efficient segmentation method for abdominal multi-organs on laptop,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2024, pp. 116–131. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
 
@@ -113,7 +113,7 @@ Publications
 - J. Yang, J. Fan, T. Fu, D. Ai, **J. Zhu**, Q. Li\*, and Y. Wang, “Convex hull matching and hierarchical decomposition for multimodality medical image registration,” *Journal of X-Ray Science and Technology*, vol. 23, no. 2, pp. 253–265, 2015.
 
 **Conference Proceedings**
-- P. Lyu, J. Zhang, L. Zhang, W. Liu*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
+- P. Lyu, J. Zhang, L. Zhang, W. Liu\*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
 
 - J. Xiong, P. Lyu, T. Lin, K. Song, C. Wang, and **J. Zhu**\*, “A highly efficient segmentation method for abdominal multi-organs on laptop,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2024, pp. 116–131. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
 
