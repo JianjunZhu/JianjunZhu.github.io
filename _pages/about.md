@@ -68,7 +68,7 @@ Publications (Others)
 
 - Y. Li, N. Fan, X. He, **J. Zhu**, J. Zhang*, and L. Lu*, “Research Progress in Predicting Hepatocellular Carcinoma with Portal Vein Tumour Thrombus in the Era of Artificial Intelligence,” *Journal of Hepatocellular Carcinoma*, pp. 1429–1438, 2024. [[Paper]](https://doi.org/10.2147/JHC.S474922)
 
-- P. Lyu, W. Liu*, T. Lin, J. Zhang, Y. Liu, C. Wang, and **J. Zhu**, “Semi-supervised Segmentation of Abdominal Organs and Liver Tumor: Uncertainty Rectified Curriculum Labeling Meets X-fuse,” *Machine Learning: Science and Technology*, vol. 5, no. 2, p. 025 047, 2024. [[Paper]](https://doi.org/10.1088/2632-2153/ad4c38)
+- P. Lyu, W. Liu*, T. Lin, J. Zhang, Y. Liu, C. Wang, and **J. Zhu**, “Semi-supervised Segmentation of Abdominal Organs and Liver Tumor: Uncertainty Rectified Curriculum Labeling Meets X-fuse,” *Machine Learning: Science and Technology*, vol. 5, no. 2, p. 025 047, 2024. [[Paper]](https://doi.org/10.1088/2632-2153/ad4c38) [[Code]](https://github.com/lyupengju/X-Fuse)
 
 **Conference Proceedings**
 
