@@ -62,13 +62,13 @@ Publications (Selected Five)
 Publications (Others)
 ======
 
-#### Journal Articles
+**Journal Articles**
 
 - Y. Liu, Y. Wang, J. Xiao, X. He, C. Wang, **J. Zhu**, P. Lv, H. Cai, L. Qiu, Y. Zhu, Y. Li, and L. Lu, “Computed Tomography and Ultrasound-guided Robotic Assistance in Percutaneous Puncture in Abdominal Phantom and Porcine Liver Models,” *IEEE Transactions on Medical Robotics and Bionics*, vol. 7, no. 2, pp. 542–549, 2025. [[Paper]](https://doi.org/10.1109/TMRB.2025.3550644)
 
 - Y. Li, N. Fan, X. He, **J. Zhu**, J. Zhang*, and L. Lu*, “Research Progress in Predicting Hepatocellular Carcinoma with Portal Vein Tumour Thrombus in the Era of Artificial Intelligence,” *Journal of Hepatocellular Carcinoma*, pp. 1429–1438, 2024.
 
-#### Conference Proceedings
+**Conference Proceedings**
 
 Professional/Scholarly Activity
 ======
