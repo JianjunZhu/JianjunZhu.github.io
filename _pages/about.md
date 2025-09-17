@@ -32,7 +32,7 @@ Work Experience
 * Oct. 2020 – Aug. 2025, Research Director
   * Hanglok-Tech. Co., Ltd., Hengqin, China
 
-* Oct. 2024 – Seq. 2025, Honorary Post-doctor
+* Oct. 2024 – Seq. 2025, Post-doctoral Researcher
   * Department of Computer Science and Engineering, Chinese University of Hong Kong, Hong Kong, China.
 
 * Jul. 2021 – Jul. 2024, Post-doctoral Researcher
