@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Join US — Research Opportunities
+Join US — Innovation Research Center for Medical Robot
 ====== 
 - We are looking for motivated students interested in working at the cutting edge of medical imaging, AI, and surgical robotics. Our team explores how advanced algorithms and robotic systems can transform the future of healthcare.
 	- In **Medical Image Computing**, you will work on developing deep learning methods for analyzing CT, MRI, and X-ray data, improving diagnosis and planning.
