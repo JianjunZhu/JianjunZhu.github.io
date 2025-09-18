@@ -16,7 +16,7 @@ Join US - Innovation Research Center for Medical Robot [[Website]](https://fie.m
 	- In **Computer-Assisted Intervention**, you will design real-time systems that guide doctors during minimally invasive surgeries.
 	- In **Interventional Surgical Robotics**, you will help create intelligent robots that can collaborate with surgeons, combining imaging and force sensing to make surgery safer and more precise.
 - If you are passionate about AI, robotics, and healthcare innovation, we welcome you to join us and contribute to next-generation surgical technologies.
-- Contact me, Emai: jjzhu@must.edu.mo, Tel: +(853) 8897-2055, Office: Buiding A Room 306b.
+- Contact me, Emai: jjzhu@must.edu.mo, Tel: +(853) 8897-2055, Office: A306b.
 
 Education
 ======
