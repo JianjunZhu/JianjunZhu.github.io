@@ -136,9 +136,9 @@ Publications
 
 - S. Guo, S. Tang, **J. Zhu**, J. Fan, D. Ai, H. Song, P. Liang, and J. Yang\*, “Improved U-net for Guidewire Tip Segmentation in X-ray Fluoroscopy Images,” in *Proceedings of the 2019 3rd International Conference on Advances in Image Processing*, 2019, pp. 55–59. [[Paper]](https://doi.org/10.1145/3373419.3373449)
 
-- G. Hu, **J. Zhu**, Y. Hu, J. Yu, P. Liang, and J. Yang\*, “Multi-modal Image Fusion based Anatomical Shape Model for Low-contrast Anterior Visual Pathway and Medial Rectus Muscle Segmentation in CT Images,” in *Proceedings of the 2019 8th International Conference on Bioinformatics and Biomedical Science*, 2019, pp. 40–46. [[Paper]](https://doi.org/10.1145/3369166.3369188)
-
 - **J. Zhu**, S. Song, S. Guo, D. Ai, J. Fan, H. Song, P. Liang, and J. Yang\*, “Monte Carlo Tree Search for 3D/2D Registration of Vessel Graphs,” in *2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, IEEE, 2019, pp. 787–791. [[Paper]](https://doi.org/10.1109/BIBM47256.2019.8983094)
+
+- G. Hu, **J. Zhu**, Y. Hu, J. Yu, P. Liang, and J. Yang\*, “Multi-modal Image Fusion based Anatomical Shape Model for Low-contrast Anterior Visual Pathway and Medial Rectus Muscle Segmentation in CT Images,” in *Proceedings of the 2019 8th International Conference on Bioinformatics and Biomedical Science*, 2019, pp. 40–46. [[Paper]](https://doi.org/10.1145/3369166.3369188)
 
 - W. Cong, J. Yang\*, W. Deng, and **J. Zhu**, “Automatic Radial Distortion Correction for Endoscope Image,” in *2013 6th International Congress on Image and Signal Processing (CISP)*, IEEE, vol. 2, 2013, pp. 932–937. [[Paper]](https://doi.org/10.1109/CISP.2013.6745298)
 
