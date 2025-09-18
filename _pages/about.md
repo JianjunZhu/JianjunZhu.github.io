@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Join US — Innovation Research Center for Medical Robot [[Website]](https://fie.must.edu.mo/id-1443/article/view/id-33729.html?locale=en_US)
+Innovation Research Center for Medical Robot [[Website]](https://fie.must.edu.mo/id-1443/article/view/id-33729.html?locale=en_US)
 ====== 
 - We are looking for motivated students interested in working at the cutting edge of medical imaging, AI, and surgical robotics. Our team explores how advanced algorithms and robotic systems can transform the future of healthcare.
 	- In **Medical Image Computing**, you will work on developing deep learning methods for analyzing CT, MRI, and X-ray data, improving diagnosis and planning.
