@@ -103,17 +103,17 @@ Publications
 
 - H. Fang, D. Ai\*, W. Cong, S. Yang, **J. Zhu**, Y. Huang, H. Song, Y. Wang, and J. Yang\*, “Topology optimization using multiple-possibility fusion for vasculature extraction,” *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 30, no. 2, pp. 442–456, 2019. [[Paper]](https://doi.org/10.1109/TCSVT.2019.2892986)
 
-- H. Fang, **J. Zhu**, D. Ai, Y. Huang, Y. Jiang, H. Song, Y. Wang, and J. Yang\*, “Greedy soft matching for vascular tracking of coronary angiographic image sequences,” *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 30, no. 5, pp. 1466–1480, 2019.
+- H. Fang, **J. Zhu**, D. Ai, Y. Huang, Y. Jiang, H. Song, Y. Wang, and J. Yang\*, “Greedy soft matching for vascular tracking of coronary angiographic image sequences,” *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 30, no. 5, pp. 1466–1480, 2019. [[Paper]](https://doi.org/10.1109/TCSVT.2019.2903883)
 
-- **J. Zhu**, X. Wang, S. Ma, J. Fan, S. Song, X. Ma, D. Ai, H. Song, Y. Jiang, Y. Wang, and J. Yang\*, “Unbiased groupwise registration for shape prediction of foot scans,” *Medical & Biological Engineering & Computing*, vol. 57, pp. 1985–1998, 2019.
+- **J. Zhu**, X. Wang, S. Ma, J. Fan, S. Song, X. Ma, D. Ai, H. Song, Y. Jiang, Y. Wang, and J. Yang\*, “Unbiased groupwise registration for shape prediction of foot scans,” *Medical & Biological Engineering & Computing*, vol. 57, pp. 1985–1998, 2019. [[Paper]](https://doi.org/10.1007/s11517-019-01992-1)
 
-- T. Fu, Q. Li, **J. Zhu**, D. Ai, Y. Huang, H. Song, Y. Jiang, Y. Wang, and J. Yang\*, “Sparse deformation prediction using markove decision processes (mdp) for non-rigid registration of mr image,” *Computer Methods and Programs in Biomedicine*, vol. 162, pp. 47–59, 2018.
+- T. Fu, Q. Li, **J. Zhu**, D. Ai, Y. Huang, H. Song, Y. Jiang, Y. Wang, and J. Yang\*, “Sparse Deformation Prediction using Markove Decision Processes (MDP) for Non-rigid Registration of MR Image,” *Computer Methods and Programs in Biomedicine*, vol. 162, pp. 47–59, 2018. [[Paper]](https://doi.org/10.1016/j.cmpb.2018.04.024)
 
-- C. Wu, J. Yang\*, **J. Zhu**, W. Cong, D. Ai, H. Song, X. Liang, and Y. Wang, “Hybrid constraint optimization for 3d subcutaneous vein reconstruction by near-infrared images,” *Computer Methods and Programs in Biomedicine*, vol. 163, pp. 123–133, 2018.
+- C. Wu, J. Yang\*, **J. Zhu**, W. Cong, D. Ai, H. Song, X. Liang, and Y. Wang, “Hybrid constraint optimization for 3d subcutaneous vein reconstruction by near-infrared images,” *Computer Methods and Programs in Biomedicine*, vol. 163, pp. 123–133, 2018. [[Paper]](https://doi.org/10.1016/j.cmpb.2018.06.008)
 
-- **J. Zhu**, J. Yang\*, J. Fan*, D. Ai, Y. Jiang, H. Song, and Y. Wang, “Accurate measurement of granary stockpile volume based on fast registration of multi-station scans,” *Remote Sensing Letters*, vol. 9, no. 6, pp. 569–577, 2018.
+- **J. Zhu**, J. Yang\*, J. Fan*, D. Ai, Y. Jiang, H. Song, and Y. Wang, “Accurate measurement of granary stockpile volume based on fast registration of multi-station scans,” *Remote Sensing Letters*, vol. 9, no. 6, pp. 569–577, 2018. [[Paper]](https://doi.org/10.1080/2150704X.2018.1452060)
 
-- J. Yang, J. Fan, T. Fu, D. Ai, **J. Zhu**, Q. Li\*, and Y. Wang, “Convex hull matching and hierarchical decomposition for multimodality medical image registration,” *Journal of X-Ray Science and Technology*, vol. 23, no. 2, pp. 253–265, 2015.
+- J. Yang, J. Fan, T. Fu, D. Ai, **J. Zhu**, Q. Li\*, and Y. Wang, “Convex hull matching and hierarchical decomposition for multimodality medical image registration,” *Journal of X-Ray Science and Technology*, vol. 23, no. 2, pp. 253–265, 2015. [[Paper]](https://doi.org/10.3233/XST-150485)
 
 **Conference Proceedings**
 - P. Lyu, J. Zhang, L. Zhang, W. Liu\*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
@@ -122,25 +122,25 @@ Publications
 
 - P. Lyu, J. Xiong, W. Fang, W. Zhang, C. Wang, and **J. Zhu**\*, “Advancing multi-organ and pan-cancer segmentation in abdominal ct scans through scale-aware and self-attentive modulation,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2023, pp. 84–101. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-58776-4_8)[[Code]](https://github.com/lyupengju/Flare23)
 
-- C. Wang, **J. Zhu**, X. Li, S. Chen, Z. Chen, Y. Huang, Y. Wu, M. Zhan, and L. Lu\*, “Vision servoing endovascular interventional robot system: Design and verification,” in *2024 IEEE International Conference on Cyborg and Bionic Systems (CBS)*, IEEE, 2024, pp. 126–132.
+- C. Wang, **J. Zhu**, X. Li, S. Chen, Z. Chen, Y. Huang, Y. Wu, M. Zhan, and L. Lu\*, “Vision servoing endovascular interventional robot system: Design and verification,” in *2024 IEEE International Conference on Cyborg and Bionic Systems (CBS)*, IEEE, 2024, pp. 126–132. [[Paper]](https://doi.org/10.1109/CBS61689.2024.10860327)
 
-- P. Lyu, C. Wang, W. Fang, J. Xiong, X. Li, H. Luo, W. Liu\*, and **J. Zhu**\*, “Registration-propagated liver tumor segmentation for non-enhanced ct-based interventions,” in *International Conference on Image and Graphics*, Springer, 2023, pp. 124–136.
+- P. Lyu, C. Wang, W. Fang, J. Xiong, X. Li, H. Luo, W. Liu\*, and **J. Zhu**\*, “Registration-propagated liver tumor segmentation for non-enhanced ct-based interventions,” in *International Conference on Image and Graphics*, Springer, 2023, pp. 124–136. [[Paper]](https://doi.org/10.1007/978-3-031-46314-3_10)
 
-- J. Xiong, P. Lyu, W. Fang, X. Li, C. Wang, and **J. Zhu**\*, “Cas_next: Towards accurate and topology-preserving coronary artery segmentation in digital substraction angiography,” in *Proceedings of the 2023 4th International Conference on Control, Robotics and Intelligent System*, 2023, pp. 95–99.
+- J. Xiong, P. Lyu, W. Fang, X. Li, C. Wang, and **J. Zhu**\*, “CAS_Next: Towards accurate and topology-preserving coronary artery segmentation in digital substraction angiography,” in *Proceedings of the 2023 4th International Conference on Control, Robotics and Intelligent System*, 2023, pp. 95–99. [[Paper]](https://doi.org/10.1145/3622896.3622913)
 
-- G. Zhang, H.-C. Wong, C. Wang, **J. Zhu**\*, L. Lu, and G.-J. Teng, “A temporary transformer network for guide-wire segmentation,” in *2021 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, IEEE, 2021, pp. 1–5.
+- G. Zhang, H.-C. Wong, C. Wang, **J. Zhu**\*, L. Lu, and G.-J. Teng, “A Temporary Transformer Network for Guide-wire Segmentation,” in *2021 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, IEEE, 2021, pp. 1–5. [[Paper]](https://doi.org/10.1109/CISP-BMEI53629.2021.9624350)
 
-- **J. Zhu**, H. Luo, C. Wang, J. Lu, and G.-J. Teng\*, “Intelligent and automatic treatment planning system for low-dose-rate brachytherapy of malignant hepatic tumors,” in *Proceedings of the 2021 International Conference on Intelligent Medicine and Health*, 2021, pp. 47–52.
+- **J. Zhu**, H. Luo, C. Wang, J. Lu, and G.-J. Teng\*, “Intelligent and automatic treatment planning system for low-dose-rate brachytherapy of malignant hepatic tumors,” in *Proceedings of the 2021 International Conference on Intelligent Medicine and Health*, 2021, pp. 47–52. [[Paper]](https://doi.org/10.1145/3484377.3484385)
 
-- **J. Zhu**, C. Wang, G. Zhang, S. A. Teng, L. Lu, and G.-J. Teng\*, “A multi-stage guidewire tip tracking framework for cardiovascular robotic interventions,” in *2021 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, IEEE, 2021, pp. 1–6.
+- **J. Zhu**, C. Wang, G. Zhang, S. A. Teng, L. Lu, and G.-J. Teng\*, “A multi-stage guidewire tip tracking framework for cardiovascular robotic interventions,” in *2021 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, IEEE, 2021, pp. 1–6. [[Paper]](https://doi.org/10.1109/CISP-BMEI53629.2021.9624418)
 
-- S. Guo, S. Tang, **J. Zhu**, J. Fan, D. Ai, H. Song, P. Liang, and J. Yang\*, “Improved u-net for guidewire tip segmentation in x-ray fluoroscopy images,” in *Proceedings of the 2019 3rd International Conference on Advances in Image Processing*, 2019, pp. 55–59.
+- S. Guo, S. Tang, **J. Zhu**, J. Fan, D. Ai, H. Song, P. Liang, and J. Yang\*, “Improved U-net for Guidewire Tip Segmentation in X-ray Fluoroscopy Images,” in *Proceedings of the 2019 3rd International Conference on Advances in Image Processing*, 2019, pp. 55–59. [[Paper]](https://doi.org/10.1145/3373419.3373449)
 
-- G. Hu, **J. Zhu**, Y. Hu, J. Yu, P. Liang, and J. Yang\*, “Multi-modal image fusion based anatomical shape model for low-contrast anterior visual pathway and medial rectus muscle segmentation in ct images,” in *Proceedings of the 2019 8th International Conference on Bioinformatics and Biomedical Science*, 2019, pp. 40–46.
+- G. Hu, **J. Zhu**, Y. Hu, J. Yu, P. Liang, and J. Yang\*, “Multi-modal Image Fusion based Anatomical Shape Model for Low-contrast Anterior Visual Pathway and Medial Rectus Muscle Segmentation in CT Images,” in *Proceedings of the 2019 8th International Conference on Bioinformatics and Biomedical Science*, 2019, pp. 40–46. [[Paper]](https://doi.org/10.1145/3369166.3369188)
 
-- **J. Zhu**, S. Song, S. Guo, D. Ai, J. Fan, H. Song, P. Liang, and J. Yang\*, “Monte carlo tree search for 3d/2d registration of vessel graphs,” in *2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, IEEE, 2019, pp. 787–791.
+- **J. Zhu**, S. Song, S. Guo, D. Ai, J. Fan, H. Song, P. Liang, and J. Yang\*, “Monte Carlo Tree Search for 3D/2D Registration of Vessel Graphs,” in *2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, IEEE, 2019, pp. 787–791. [[Paper]](https://doi.org/10.1109/BIBM47256.2019.8983094)
 
-- W. Cong, J. Yang\*, W. Deng, and **J. Zhu**, “Automatic radial distortion correction for endoscope image,” in *2013 6th International Congress on Image and Signal Processing (CISP)*, IEEE, vol. 2, 2013, pp. 932–937.
+- W. Cong, J. Yang\*, W. Deng, and **J. Zhu**, “Automatic Radial Distortion Correction for Endoscope Image,” in *2013 6th International Congress on Image and Signal Processing (CISP)*, IEEE, vol. 2, 2013, pp. 932–937. [[Paper]](https://doi.org/10.1109/CISP.2013.6745298)
 
 Professional/Scholarly Activity
 ======
