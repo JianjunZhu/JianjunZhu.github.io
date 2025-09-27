@@ -120,7 +120,7 @@ Publications
 
 - J. Xiong, P. Lyu, T. Lin, K. Song, C. Wang, and **J. Zhu**\*, “A highly efficient segmentation method for abdominal multi-organs on laptop,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2024, pp. 116–131. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
 
-- R. Yin, Y. Zhang, Z. Pan, **J. Zhu**, C. Wang, and B. Jia\*, “SRPose: Two-view relative pose estimation with sparse keypoints,” in Computer Vision – ECCV 2024, Cham: Springer Nature Switzerland, 2025, pp. 88–107. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
+- R. Yin, Y. Zhang, Z. Pan, **J. Zhu**, C. Wang, and B. Jia\*, “SRPose: Two-view relative pose estimation with sparse keypoints,” in *Computer Vision – ECCV 2024*, Cham: Springer Nature Switzerland, 2025, pp. 88–107. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
 
 - P. Lyu, J. Xiong, W. Fang, W. Zhang, C. Wang, and **J. Zhu**\*, “Advancing multi-organ and pan-cancer segmentation in abdominal ct scans through scale-aware and self-attentive modulation,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2023, pp. 84–101. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-73010-8_6)[[Code]](https://github.com/frickyinn/SRPose)
 
