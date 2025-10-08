@@ -111,7 +111,7 @@ Publications
 
 - C. Wu, J. Yang\*, **J. Zhu**, W. Cong, D. Ai, H. Song, X. Liang, and Y. Wang, “Hybrid constraint optimization for 3d subcutaneous vein reconstruction by near-infrared images,” *Computer Methods and Programs in Biomedicine*, vol. 163, pp. 123–133, 2018. [[Paper]](https://doi.org/10.1016/j.cmpb.2018.06.008)
 
-- **J. Zhu**, J. Yang\*, J. Fan*, D. Ai, Y. Jiang, H. Song, and Y. Wang, “Accurate measurement of granary stockpile volume based on fast registration of multi-station scans,” *Remote Sensing Letters*, vol. 9, no. 6, pp. 569–577, 2018. [[Paper]](https://doi.org/10.1080/2150704X.2018.1452060)
+- **J. Zhu**, J. Yang\*, J. Fan\*, D. Ai, Y. Jiang, H. Song, and Y. Wang, “Accurate measurement of granary stockpile volume based on fast registration of multi-station scans,” *Remote Sensing Letters*, vol. 9, no. 6, pp. 569–577, 2018. [[Paper]](https://doi.org/10.1080/2150704X.2018.1452060)
 
 - J. Yang, J. Fan, T. Fu, D. Ai, **J. Zhu**, Q. Li\*, and Y. Wang, “Convex hull matching and hierarchical decomposition for multimodality medical image registration,” *Journal of X-Ray Science and Technology*, vol. 23, no. 2, pp. 253–265, 2015. [[Paper]](https://doi.org/10.3233/XST-150485)
 
