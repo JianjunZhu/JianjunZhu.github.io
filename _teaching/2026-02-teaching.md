@@ -1,5 +1,5 @@
 ---
-title: "Probability and Statistic"
+title: "Probability and Statistics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-02-teaching
