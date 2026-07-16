@@ -1,37 +1,37 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Publications"
 permalink: /publications/
-description: "Selected journal and conference publications by Jianjun Zhu in medical imaging, computer-assisted intervention, and surgical robotics."
 author_profile: true
 ---
 
-<p class="page-lead">Selected peer-reviewed work in medical image computing, image-guided intervention, and surgical robotics.</p>
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 
-<div class="publication-actions">
-  <a class="home-button home-button--primary" href="https://scholar.google.com/citations?user=hDDLo9UAAAAJ&amp;hl=en">Complete list on Google Scholar <span aria-hidden="true">↗</span></a>
-  <a class="home-button" href="https://orcid.org/0000-0001-5895-7663">ORCID record <span aria-hidden="true">↗</span></a>
-</div>
+{% include base_path %}
 
-<p class="publication-note"><strong>Notation:</strong> * corresponding author. Entries below are curated highlights; Google Scholar is the source for the complete and most current bibliography.</p>
+# indicates co-first authors, * indicates corresponding authors
+<!-- New style rendering if publication categories are defined -->
+{% if site.publication_category %}
+  {% for category in site.publication_category  %}
+    {% assign title_shown = false %}
+    {% for post in site.publications reversed %}
+      {% if post.category != category[0] %}
+        {% continue %}
+      {% endif %}
+      {% unless title_shown %}
+        <h2>{{ category[1].title }}</h2><hr />
+        {% assign title_shown = true %}
+      {% endunless %}
+      {% include archive-single.html %}
+    {% endfor %}
+  {% endfor %}
+{% else %}
+  {% for post in site.publications reversed %}
+    {% include archive-single.html %}
+  {% endfor %}
+{% endif %}
 
-{% assign sorted_publications = site.publications | sort: "date" | reverse %}
-<div class="publication-catalog">
-{% for post in sorted_publications %}
-  <article class="publication-card">
-    <div class="publication-card__meta">
-      <span>{{ post.date | date: "%Y" }}</span>
-      <span>{{ post.category | replace: "manuscripts", "Journal" | replace: "conferences", "Conference" }}</span>
-    </div>
-    <div class="publication-card__body">
-      <p class="publication-card__venue">{{ post.venue }}</p>
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      {% if post.citation %}<p class="publication-card__citation">{{ post.citation }}</p>{% endif %}
-      <div class="publication-card__links">
-        {% if post.paperurl %}<a href="{{ post.paperurl }}">Paper <span aria-hidden="true">↗</span></a>{% endif %}
-        <a href="{{ post.url | relative_url }}">Details <span aria-hidden="true">→</span></a>
-      </div>
-    </div>
-  </article>
-{% endfor %}
-</div>
+
+

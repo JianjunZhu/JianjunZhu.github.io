@@ -2,22 +2,11 @@
 layout: archive
 title: "Teaching"
 permalink: /teaching/
-description: "Current undergraduate teaching by Jianjun Zhu at Macau University of Science and Technology."
 author_profile: true
 ---
 
-<p class="page-lead">Undergraduate courses taught in the Faculty of Innovation Engineering at Macau University of Science and Technology.</p>
+{% include base_path %}
 
-<div class="teaching-grid">
-{% assign courses = site.teaching | sort: "date" | reverse %}
-{% for post in courses %}
-  <article class="teaching-card">
-    <div class="teaching-card__term">{{ post.date | date: "%Y" }}</div>
-    <div class="teaching-card__icon"><i class="fas fa-chalkboard-user" aria-hidden="true"></i></div>
-    <p>{{ post.type }}</p>
-    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <span>{{ post.location }}</span>
-    <a class="text-link" href="{{ post.url | relative_url }}">Course details <span aria-hidden="true">→</span></a>
-  </article>
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
 {% endfor %}
-</div>
