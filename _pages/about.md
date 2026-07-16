@@ -9,37 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
-Join US - [[Innovation Research Center for Medical Robot]](https://fie.must.edu.mo/id-1443/article/view/id-33729.html?locale=en_US)
+I am an Assistant Professor in the School of Computer Science and Engineering, Faculty of Innovation Engineering, at Macau University of Science and Technology. My research focuses on medical image computing, computer-assisted intervention, and interventional surgical robotics.
+
+My work combines artificial intelligence, medical imaging, and robotic systems to support safer and more precise minimally invasive procedures.
+
+Join Our Team - [[Innovation Research Center for Medical Robot]](https://fie.must.edu.mo/id-1443/article/view/id-33729.html?locale=en_US)
 ====== 
-- We are looking for motivated students interested in working at the cutting edge of medical imaging, AI, and surgical robotics. Our team explores how advanced algorithms and robotic systems can transform the future of healthcare.
-	- In **Medical Image Computing**, you will work on developing deep learning methods for analyzing CT, MRI, and X-ray data, improving diagnosis and planning.
-	- In **Computer-Assisted Intervention**, you will design real-time systems that guide doctors during minimally invasive surgeries.
-	- In **Interventional Surgical Robotics**, you will help create intelligent robots that can collaborate with surgeons, combining imaging and force sensing to make surgery safer and more precise.
-- If you are passionate about AI, robotics, and healthcare innovation, we welcome you to join us and contribute to next-generation surgical technologies.
-- Contact me, Emai: jjzhu@must.edu.mo, Tel: +(853) 8897-2055, Office: A306b.
+- We welcome motivated students interested in medical imaging, artificial intelligence, and surgical robotics. Our team studies how computational methods and robotic systems can improve clinical decision-making and intervention.
+	- In **Medical Image Computing**, you will develop deep learning methods for analyzing CT, MRI, and X-ray data to support diagnosis and treatment planning.
+	- In **Computer-Assisted Intervention**, you will investigate registration, tracking, and real-time image guidance for minimally invasive procedures.
+	- In **Interventional Surgical Robotics**, you will explore vision, force sensing, and intelligent control for safer human–robot collaboration.
+- Students with backgrounds in computer science, engineering, medical imaging, or related fields are encouraged to get in touch.
+- Contact: Email: jjzhu@must.edu.mo; Tel: +853 8897 2055; Office: A306b.
 
 Education
 ======
-* 2020, Ph.D in Beijing Institute of Technology
-* 2014, M.S. in in Beijing Institute of Technology 
-* 2012, B.S. in Beijing Institute of Technology
+* 2020, Ph.D., Beijing Institute of Technology
+* 2014, M.S., Beijing Institute of Technology
+* 2012, B.S., Beijing Institute of Technology
 
 Work Experience
 ======
-* Sep. 2025 - Now, Assistant Professor
+* Sep. 2025 – Present, Assistant Professor
   * School of Computer Science and Engineering, Faculty of Innovation Engineering, Macau University of Science and Technology, Macau, China.
 
 * Oct. 2020 – Aug. 2025, Research Director
   * Hanglok-Tech. Co., Ltd., Hengqin, China
 
-* Oct. 2024 – Sep. 2025, Post-doctoral Researcher
-  * Department of Computer Science and Engineering, Chinese University of Hong Kong, Hong Kong, China.
+* Oct. 2024 – Sep. 2025, Postdoctoral Researcher
+  * Department of Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong, China.
 
-* Jul. 2021 – Jul. 2024, Post-doctoral Researcher
+* Jul. 2021 – Jul. 2024, Postdoctoral Researcher
   * Department of Radiology, Zhongda Hospital, Medical School, Southeast University, Nanjing, China.
 
-* Jun. 2014 - Jun. 2015, Software Engineer
-  * LUSTER LightTech Co., Ltd., Beĳing, China
+* Jun. 2014 – Jun. 2015, Software Engineer
+  * LUSTER LightTech Co., Ltd., Beijing, China
 
 Research Grants
 ======
@@ -48,12 +52,12 @@ Research Grants
   * Title: Study on Interventional Surgical Robot Diagnosis and Treatment System for Intracerebral Artery Disease. 
   * Role: Co-PI. 
 
-* Project supported by National Natural Science Foundation of China (No. 82402410) 
+* National Natural Science Foundation of China (No. 82402410)
   * Duration: 2025.01 – 2027.12
   * Title: Research on Instrument Force Perception and Safety Control Methods for Vascular Interventional Robot Based on Multimodal AI Models. 
   * Role: Principal Investigator. 
 
-* Project funded by China Postdoctoral Science Foundation (No. 2021M700772)
+* China Postdoctoral Science Foundation (No. 2021M700772)
   * Duration: 2021.11 – 2024.07
   * Title: Instrument Positioning and Intelligent Control for Endovascular Interventional Robot. 
   * Role: Principal Investigator. 
@@ -144,7 +148,7 @@ Publications
 
 - W. Cong, J. Yang\*, W. Deng, and **J. Zhu**, “Automatic Radial Distortion Correction for Endoscope Image,” in *2013 6th International Congress on Image and Signal Processing (CISP)*, IEEE, vol. 2, 2013, pp. 932–937. [[Paper]](https://doi.org/10.1109/CISP.2013.6745298)
 
-Professional/Scholarly Activity
+Professional Service
 ======
 * Reviewer for journals and conferences, including:
   * IEEE Transactions on Biomedical Engineering
@@ -152,9 +156,9 @@ Professional/Scholarly Activity
   * IEEE Transactions on Medical Imaging
   * International Journal of Computer Assisted Radiology and Surgery
   * International Conference on Medical Image Computing and Computer-Assisted Intervention
-  * IEEE International Conference on Multimedia&Expo
+  * IEEE International Conference on Multimedia & Expo
 
-Professional Certification and Awards
+Honors and Awards
 ======
 * 2024, First Winner Award, MICCAI Challenge on Fast, Low-resource, and Accurate oRgan and Pan-cancer sEgmentation in Abdomen CT (Flare 2024 Task2). 
 * 2023, Meritorious Winner Award, MICCAI Challenge on Fast, Low-resource, and Accurate oRgan and Pan-cancer sEgmentation in Abdomen CT (Flare 2023). 

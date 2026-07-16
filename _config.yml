@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "HomePage"
 title_separator          : "-"
 name                     : &name "Jianjun Zhu"
-description              : &description "Assistant Professor at MUST"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Jianjun Zhu is an Assistant Professor at Macau University of Science and Technology working on medical image computing, computer-assisted intervention, and surgical robotics."
 url                      : https://JianjunZhu.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Jianjun Zhu 朱建軍"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor at Macau University of Science and Technology"
+  bio              : "Assistant Professor working on medical imaging, AI, and surgical robotics"
   location         : "Macau, China"
   employer         : "SCSE, FIE, MUST"
   uri              : # URL
