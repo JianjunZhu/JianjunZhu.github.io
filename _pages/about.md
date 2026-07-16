@@ -68,13 +68,33 @@ Publications
 
 - P. Lyu, J. Zhang, L. Zhang, W. Liu\*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
 
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/metaunetr-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of MetaUNETR, from 3D abdominal CT through TriCruci token mixing and an efficient encoder to multi-organ segmentation" loading="lazy" decoding="async">
+  </figure>
+
 - J. Xiong, P. Lyu, T. Lin, K. Song, C. Wang, and **J. Zhu**\*, “A highly efficient segmentation method for abdominal multi-organs on laptop,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2024, pp. 116–131. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
+
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/flare2024-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of the two-phase lightweight abdominal multi-organ segmentation pipeline designed for laptop inference" loading="lazy" decoding="async">
+  </figure>
 
 - **J. Zhu**, C. Wang, Y. Zhang, M. Zhan, W. Zhao, S. Teng, L. Lu\*, and G.-J. Teng\*, “3D/2D Vessel Registration based on Monte Carlo Tree Search and Manifold Regularization,” *IEEE Transactions on Medical Imaging*, vol. 43, no. 5, pp. 1727–1739, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10375552)
 
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/vessel-registration-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of 3D and 2D vessel registration using Monte Carlo tree search for rigid alignment and manifold-regularized deformation" loading="lazy" decoding="async">
+  </figure>
+
 - **J. Zhu**, C. Wang, S. Teng, J. Lu, P. Lyu, P. Zhang, J. Xu, L. Lu\*, and G.-J. Teng\*, “Embedding expertise knowledge into inverse treatment planning for low-dose-rate brachytherapy of hepatic malignancies,” *Medical Physics*, vol. 51, no. 1, pp. 348–362, 2024. [[Paper]](https://doi.org/10.1002/mp.16627)
 
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/brachytherapy-planning-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of expertise-guided brachytherapy planning, from multi-organ CT segmentation and knowledge retrieval to seed initialization and inverse dose planning" loading="lazy" decoding="async">
+  </figure>
+
 - **J. Zhu**, H. Li, D. Ai\*, Q. Yang, J. Fan, Y. Huang, H. Song, Y. Han, and J. Yang\*, “Iterative closest graph matching for non-rigid 3d/2d coronary arteries registration,” *Computer Methods and Programs in Biomedicine*, vol. 199, p. 105 901, 2021. [[Paper]](https://doi.org/10.1016/j.cmpb.2020.105901)
+
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/icgm-coronary-registration-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of iterative closest graph matching for non-rigid 3D and 2D coronary artery registration" loading="lazy" decoding="async">
+  </figure>
 
 
 **Journal Articles**
