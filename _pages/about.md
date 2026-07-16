@@ -1,167 +1,164 @@
 ---
+layout: splash
 permalink: /
-title: ""
-author_profile: true
-redirect_from: 
+description: "Jianjun Zhu is an Assistant Professor at Macau University of Science and Technology researching medical image computing, computer-assisted intervention, and surgical robotics."
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% include base_path %}
+<div class="home-shell">
+  <section class="home-hero" aria-labelledby="intro-title">
+    <div class="home-hero__content">
+      <p class="eyebrow">Medical AI · Image-Guided Intervention · Surgical Robotics</p>
+      <h1 id="intro-title">Jianjun Zhu <span>朱建軍</span></h1>
+      <p class="home-hero__role">Assistant Professor at Macau University of Science and Technology</p>
+      <p class="home-hero__lead">I develop intelligent imaging and robotic systems that help clinicians plan, navigate, and perform minimally invasive interventions with greater precision and safety.</p>
+      <div class="home-actions" aria-label="Primary links">
+        <a class="home-button home-button--primary" href="{{ '/publications/' | relative_url }}">Explore publications <span aria-hidden="true">→</span></a>
+        <a class="home-button" href="https://scholar.google.com/citations?user=hDDLo9UAAAAJ&amp;hl=en">Google Scholar</a>
+        <a class="home-button home-button--quiet" href="mailto:jjzhu@must.edu.mo">Get in touch</a>
+      </div>
+      <ul class="home-meta" aria-label="Affiliation and location">
+        <li><i class="fas fa-building-columns" aria-hidden="true"></i> SCSE · FIE · MUST</li>
+        <li><i class="fas fa-location-dot" aria-hidden="true"></i> Macau, China</li>
+      </ul>
+    </div>
+    <div class="home-hero__portrait">
+      <div class="portrait-frame">
+        <img src="{{ '/images/profile-720.webp' | relative_url }}" alt="Portrait of Jianjun Zhu" width="720" height="776" fetchpriority="high">
+      </div>
+      <div class="portrait-note" aria-hidden="true">
+        <span>Research at the intersection of</span>
+        <strong>AI · Imaging · Robotics</strong>
+      </div>
+    </div>
+  </section>
 
-Join US - [[Innovation Research Center for Medical Robot]](https://fie.must.edu.mo/id-1443/article/view/id-33729.html?locale=en_US)
-====== 
-- We are looking for motivated students interested in working at the cutting edge of medical imaging, AI, and surgical robotics. Our team explores how advanced algorithms and robotic systems can transform the future of healthcare.
-	- In **Medical Image Computing**, you will work on developing deep learning methods for analyzing CT, MRI, and X-ray data, improving diagnosis and planning.
-	- In **Computer-Assisted Intervention**, you will design real-time systems that guide doctors during minimally invasive surgeries.
-	- In **Interventional Surgical Robotics**, you will help create intelligent robots that can collaborate with surgeons, combining imaging and force sensing to make surgery safer and more precise.
-- If you are passionate about AI, robotics, and healthcare innovation, we welcome you to join us and contribute to next-generation surgical technologies.
-- Contact me, Emai: jjzhu@must.edu.mo, Tel: +(853) 8897-2055, Office: A306b.
+  <section class="home-section home-intro" aria-labelledby="about-title">
+    <div class="section-heading">
+      <p class="section-index">01</p>
+      <div>
+        <p class="eyebrow">About</p>
+        <h2 id="about-title">Engineering intelligence for image-guided care</h2>
+      </div>
+    </div>
+    <div class="home-intro__body">
+      <p class="home-intro__statement">My work connects medical image analysis, real-time intervention guidance, and robotic control—turning computational methods into practical tools for the clinical workflow.</p>
+      <p>I am an Assistant Professor in the School of Computer Science and Engineering, Faculty of Innovation Engineering, at Macau University of Science and Technology. My research spans medical image computing, computer-assisted intervention, and interventional surgical robotics.</p>
+    </div>
+  </section>
 
-Education
-======
-* 2020, Ph.D in Beijing Institute of Technology
-* 2014, M.S. in in Beijing Institute of Technology 
-* 2012, B.S. in Beijing Institute of Technology
+  <section class="home-section" id="research" aria-labelledby="research-title">
+    <div class="section-heading">
+      <p class="section-index">02</p>
+      <div>
+        <p class="eyebrow">Research</p>
+        <h2 id="research-title">Three connected research themes</h2>
+      </div>
+    </div>
+    <div class="research-grid">
+      <article class="research-card">
+        <div class="research-card__number">01</div>
+        <i class="fas fa-layer-group research-card__icon" aria-hidden="true"></i>
+        <h3>Medical Image Computing</h3>
+        <p>Efficient deep learning for CT, MRI, and X-ray analysis, including organ, tumor, vessel, and guidewire segmentation.</p>
+        <span class="research-card__tag">Perception</span>
+      </article>
+      <article class="research-card">
+        <div class="research-card__number">02</div>
+        <i class="fas fa-crosshairs research-card__icon" aria-hidden="true"></i>
+        <h3>Computer-Assisted Intervention</h3>
+        <p>Registration, treatment planning, tracking, and real-time image guidance for minimally invasive procedures.</p>
+        <span class="research-card__tag">Navigation</span>
+      </article>
+      <article class="research-card">
+        <div class="research-card__number">03</div>
+        <i class="fas fa-robot research-card__icon" aria-hidden="true"></i>
+        <h3>Interventional Surgical Robotics</h3>
+        <p>Vision servoing, multimodal force perception, and intelligent safety control for human–robot collaboration.</p>
+        <span class="research-card__tag">Action</span>
+      </article>
+    </div>
+  </section>
 
-Work Experience
-======
-* Sep. 2025 - Now, Assistant Professor
-  * School of Computer Science and Engineering, Faculty of Innovation Engineering, Macau University of Science and Technology, Macau, China.
+  <section class="home-section" aria-labelledby="publications-title">
+    <div class="section-heading section-heading--action">
+      <div class="section-heading__label">
+        <p class="section-index">03</p>
+        <div>
+          <p class="eyebrow">Selected work</p>
+          <h2 id="publications-title">Research highlights</h2>
+        </div>
+      </div>
+      <a class="text-link" href="{{ '/publications/' | relative_url }}">All selected publications <span aria-hidden="true">→</span></a>
+    </div>
+    <div class="featured-publications">
+      <article class="publication-row">
+        <div class="publication-row__year">2025</div>
+        <div class="publication-row__body">
+          <p class="publication-row__venue">IEEE Transactions on Medical Robotics and Bionics</p>
+          <h3>CT and ultrasound-guided robotic assistance in percutaneous puncture</h3>
+          <p>Y. Liu, Y. Wang, J. Xiao, et al., including <strong>J. Zhu</strong></p>
+        </div>
+        <a class="publication-row__link" href="https://doi.org/10.1109/TMRB.2025.3550644" aria-label="Read CT and ultrasound-guided robotic assistance paper">Paper <span aria-hidden="true">↗</span></a>
+      </article>
+      <article class="publication-row">
+        <div class="publication-row__year">2024</div>
+        <div class="publication-row__body">
+          <p class="publication-row__venue">MICCAI</p>
+          <h3>MetaUNETR: Rethinking token mixer encoding for efficient multi-organ segmentation</h3>
+          <p>P. Lyu, J. Zhang, L. Zhang, et al., <strong>J. Zhu*</strong></p>
+        </div>
+        <a class="publication-row__link" href="https://doi.org/10.1007/978-3-031-72114-4_43" aria-label="Read MetaUNETR paper">Paper <span aria-hidden="true">↗</span></a>
+      </article>
+      <article class="publication-row">
+        <div class="publication-row__year">2023</div>
+        <div class="publication-row__body">
+          <p class="publication-row__venue">IEEE Transactions on Medical Imaging</p>
+          <h3>3D/2D vessel registration based on Monte Carlo tree search and manifold regularization</h3>
+          <p><strong>J. Zhu</strong>, C. Wang, Y. Zhang, et al.</p>
+        </div>
+        <a class="publication-row__link" href="https://ieeexplore.ieee.org/document/10375552" aria-label="Read 3D/2D vessel registration paper">Paper <span aria-hidden="true">↗</span></a>
+      </article>
+    </div>
+  </section>
 
-* Oct. 2020 – Aug. 2025, Research Director
-  * Hanglok-Tech. Co., Ltd., Hengqin, China
+  <section class="home-section" aria-labelledby="grants-title">
+    <div class="section-heading">
+      <p class="section-index">04</p>
+      <div>
+        <p class="eyebrow">Support</p>
+        <h2 id="grants-title">Research grants</h2>
+      </div>
+    </div>
+    <div class="grant-list">
+      <article class="grant-item">
+        <div class="grant-item__meta"><strong>2025–2027</strong><span>Co-PI</span></div>
+        <div><h3>National Key Research and Development Program</h3><p>Interventional surgical robot diagnosis and treatment system for intracerebral artery disease.</p></div>
+      </article>
+      <article class="grant-item">
+        <div class="grant-item__meta"><strong>2025–2027</strong><span>Principal Investigator</span></div>
+        <div><h3>National Natural Science Foundation of China · 82402410</h3><p>Instrument force perception and safety control for vascular interventional robots using multimodal AI models.</p></div>
+      </article>
+      <article class="grant-item">
+        <div class="grant-item__meta"><strong>2021–2024</strong><span>Principal Investigator</span></div>
+        <div><h3>China Postdoctoral Science Foundation · 2021M700772</h3><p>Instrument positioning and intelligent control for endovascular interventional robots.</p></div>
+      </article>
+    </div>
+  </section>
 
-* Oct. 2024 – Sep. 2025, Post-doctoral Researcher
-  * Department of Computer Science and Engineering, Chinese University of Hong Kong, Hong Kong, China.
-
-* Jul. 2021 – Jul. 2024, Post-doctoral Researcher
-  * Department of Radiology, Zhongda Hospital, Medical School, Southeast University, Nanjing, China.
-
-* Jun. 2014 - Jun. 2015, Software Engineer
-  * LUSTER LightTech Co., Ltd., Beĳing, China
-
-Research Grants
-======
-* National Key Research and Development Program (2024YFE0201700)
-  * Duration: 2025.01 – 2027.12
-  * Title: Study on Interventional Surgical Robot Diagnosis and Treatment System for Intracerebral Artery Disease. 
-  * Role: Co-PI. 
-
-* Project supported by National Natural Science Foundation of China (No. 82402410) 
-  * Duration: 2025.01 – 2027.12
-  * Title: Research on Instrument Force Perception and Safety Control Methods for Vascular Interventional Robot Based on Multimodal AI Models. 
-  * Role: Principal Investigator. 
-
-* Project funded by China Postdoctoral Science Foundation (No. 2021M700772)
-  * Duration: 2021.11 – 2024.07
-  * Title: Instrument Positioning and Intelligent Control for Endovascular Interventional Robot. 
-  * Role: Principal Investigator. 
-
-Publications
-======
-**Selected**
-
-- P. Lyu, J. Zhang, L. Zhang, W. Liu\*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
-
-- J. Xiong, P. Lyu, T. Lin, K. Song, C. Wang, and **J. Zhu**\*, “A highly efficient segmentation method for abdominal multi-organs on laptop,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2024, pp. 116–131. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
-
-- **J. Zhu**, C. Wang, Y. Zhang, M. Zhan, W. Zhao, S. Teng, L. Lu\*, and G.-J. Teng\*, “3D/2D Vessel Registration based on Monte Carlo Tree Search and Manifold Regularization,” *IEEE Transactions on Medical Imaging*, vol. 43, no. 5, pp. 1727–1739, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10375552)
-
-- **J. Zhu**, C. Wang, S. Teng, J. Lu, P. Lyu, P. Zhang, J. Xu, L. Lu\*, and G.-J. Teng\*, “Embedding expertise knowledge into inverse treatment planning for low-dose-rate brachytherapy of hepatic malignancies,” *Medical Physics*, vol. 51, no. 1, pp. 348–362, 2024. [[Paper]](https://doi.org/10.1002/mp.16627)
-
-- **J. Zhu**, H. Li, D. Ai\*, Q. Yang, J. Fan, Y. Huang, H. Song, Y. Han, and J. Yang\*, “Iterative closest graph matching for non-rigid 3d/2d coronary arteries registration,” *Computer Methods and Programs in Biomedicine*, vol. 199, p. 105 901, 2021. [[Paper]](https://doi.org/10.1016/j.cmpb.2020.105901)
-
-
-**Journal Articles**
-
-- Y. Liu, Y. Wang, J. Xiao, X. He, C. Wang, **J. Zhu**, P. Lv, H. Cai, L. Qiu, Y. Zhu, Y. Li, and L. Lu, “Computed Tomography and Ultrasound-guided Robotic Assistance in Percutaneous Puncture in Abdominal Phantom and Porcine Liver Models,” *IEEE Transactions on Medical Robotics and Bionics*, vol. 7, no. 2, pp. 542–549, 2025. [[Paper]](https://doi.org/10.1109/TMRB.2025.3550644)
-
-- Y. Li, N. Fan, X. He, **J. Zhu**, J. Zhang\*, and L. Lu\*, “Research Progress in Predicting Hepatocellular Carcinoma with Portal Vein Tumour Thrombus in the Era of Artificial Intelligence,” *Journal of Hepatocellular Carcinoma*, pp. 1429–1438, 2024. [[Paper]](https://doi.org/10.2147/JHC.S474922)
-
-- P. Lyu, W. Liu\*, T. Lin, J. Zhang, Y. Liu, C. Wang, and **J. Zhu**, “Semi-supervised Segmentation of Abdominal Organs and Liver Tumor: Uncertainty Rectified Curriculum Labeling Meets X-fuse,” *Machine Learning: Science and Technology*, vol. 5, no. 2, p. 025 047, 2024. [[Paper]](https://doi.org/10.1088/2632-2153/ad4c38) [[Code]](https://github.com/lyupengju/X-Fuse)
-
-- C. Wang, L. Guo, **J. Zhu**, L. Zhu, C. Li, H. Zhu, A. Song, L. Lu, G.-J. Teng\*, N. Navab, and Z. Jiang, “Review of robotic systems for thoracoabdominal puncture interventional surgery,” *APL bioengineering*, vol. 8, no. 2, 2024. [[Paper]](https://doi.org/10.1063/5.0180494)
-
-- X. Wang, **J. Zhu**, Y. Wang, C. Wang, P. Chen, P. Lyu, J. Xu, and G.-J. Teng\*, “A respiratory signal monitoring method based on dual-pathway deep learning networks in image-guided robotic-assisted intervention system,” *The International Journal of Medical Robotics and Computer Assisted Surgery*, vol. 20, no. 6, e70017, 2024. [[Paper]](https://doi.org/10.1002/rcs.70017)
-
-- T. Zhang\*, A. Gao, **J. Zhu**, B. Zhang, J. Lin, and Y. Ni, “A vascular shape reconstruction method based on multicore fbg sensing,” *IEEE Sensors Journal*, vol. 24, no. 3, pp. 2769–2778, 2024. [[Paper]](https://doi.org/10.1109/JSEN.2023.3334484)
-
-- **J. Zhu**, C. Wang, S. Teng, J. Lu, P. Lyu, P. Zhang, J. Xu, L. Lu\*, and G.-J. Teng\*, “Embedding expertise knowledge into inverse treatment planning for low-dose-rate brachytherapy of hepatic malignancies,” *Medical Physics*, vol. 51, no. 1, pp. 348–362, 2024. [[Paper]](https://doi.org/10.1002/mp.16627)
-
-- **J. Zhu**, C. Wang, Y. Zhang, M. Zhan, W. Zhao, S. Teng, L. Lu\*, and G.-J. Teng\*, “3D/2D Vessel Registration based on Monte Carlo Tree Search and Manifold Regularization,” *IEEE Transactions on Medical Imaging*, vol. 43, no. 5, pp. 1727–1739, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10375552)
-
-- G. Zhang, H.-C. Wong\*, **J. Zhu**\*, T. An, and C. Wang, “Jigsaw training-based background reverse attention transformer network for guidewire segmentation,” *International Journal of Computer Assisted Radiology and Surgery*, vol. 18, no. 4, pp. 653–661, 2023. [[Paper]](https://link.springer.com/article/10.1007/s11548-022-02803-z)
-
-- S. Jiang, S. Teng, J. Lu, C. Wang, T. Wen, **J. Zhu**, and G.-J. Teng\*, “Pixeltopois: A pixel-topology-coupled guidewire tip segmentation framework for robot-assisted intervention,” *International Journal of Computer Assisted Radiology and Surgery*, vol. 17, no. 2, pp. 329–341, 2022. [[Paper]](https://link.springer.com/article/10.1007/s11548-021-02529-4)
-
-- **J. Zhu**, H. Li, D. Ai\*, Q. Yang, J. Fan, Y. Huang, H. Song, Y. Han, and J. Yang\*, “Iterative closest graph matching for non-rigid 3d/2d coronary arteries registration,” *Computer Methods and Programs in Biomedicine*, vol. 199, p. 105 901, 2021. [[Paper]](https://doi.org/10.1016/j.cmpb.2020.105901)
-
-- J. Yang, **J. Zhu**, D. Y. Sze, L. Cui, X. Li, Y. Bai, D. Ai, J. Fan, H. Song, and F. Duan\*, “Feasibility of augmented reality–guided transjugular intrahepatic portosystemic shunt,” *Journal of Vascular and Interventional Radiology*, vol. 31, no. 12, pp. 2098–2103, 2020. [[Paper]](https://doi.org/10.1016/j.jvir.2020.07.025)
-
-- **J. Zhu**, J. Fan, S. Guo, D. Ai, H. Song, C. Wang, S. Zhou, and J. Yang\*, “Heuristic tree searching for pose-independent 3d/2d rigid registration of vessel structures,” *Physics in Medicine & Biology*, vol. 65, no. 5, p. 055 010, 2020. [[Paper]](https://doi.org/10.1088/1361-6560/ab6b43)
-
-- H. Fang, D. Ai\*, W. Cong, S. Yang, **J. Zhu**, Y. Huang, H. Song, Y. Wang, and J. Yang\*, “Topology optimization using multiple-possibility fusion for vasculature extraction,” *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 30, no. 2, pp. 442–456, 2019. [[Paper]](https://doi.org/10.1109/TCSVT.2019.2892986)
-
-- H. Fang, **J. Zhu**, D. Ai, Y. Huang, Y. Jiang, H. Song, Y. Wang, and J. Yang\*, “Greedy soft matching for vascular tracking of coronary angiographic image sequences,” *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 30, no. 5, pp. 1466–1480, 2019. [[Paper]](https://doi.org/10.1109/TCSVT.2019.2903883)
-
-- **J. Zhu**, X. Wang, S. Ma, J. Fan, S. Song, X. Ma, D. Ai, H. Song, Y. Jiang, Y. Wang, and J. Yang\*, “Unbiased groupwise registration for shape prediction of foot scans,” *Medical & Biological Engineering & Computing*, vol. 57, pp. 1985–1998, 2019. [[Paper]](https://doi.org/10.1007/s11517-019-01992-1)
-
-- T. Fu, Q. Li, **J. Zhu**, D. Ai, Y. Huang, H. Song, Y. Jiang, Y. Wang, and J. Yang\*, “Sparse Deformation Prediction using Markove Decision Processes (MDP) for Non-rigid Registration of MR Image,” *Computer Methods and Programs in Biomedicine*, vol. 162, pp. 47–59, 2018. [[Paper]](https://doi.org/10.1016/j.cmpb.2018.04.024)
-
-- C. Wu, J. Yang\*, **J. Zhu**, W. Cong, D. Ai, H. Song, X. Liang, and Y. Wang, “Hybrid constraint optimization for 3d subcutaneous vein reconstruction by near-infrared images,” *Computer Methods and Programs in Biomedicine*, vol. 163, pp. 123–133, 2018. [[Paper]](https://doi.org/10.1016/j.cmpb.2018.06.008)
-
-- **J. Zhu**, J. Yang\*, J. Fan\*, D. Ai, Y. Jiang, H. Song, and Y. Wang, “Accurate measurement of granary stockpile volume based on fast registration of multi-station scans,” *Remote Sensing Letters*, vol. 9, no. 6, pp. 569–577, 2018. [[Paper]](https://doi.org/10.1080/2150704X.2018.1452060)
-
-- J. Yang, J. Fan, T. Fu, D. Ai, **J. Zhu**, Q. Li\*, and Y. Wang, “Convex hull matching and hierarchical decomposition for multimodality medical image registration,” *Journal of X-Ray Science and Technology*, vol. 23, no. 2, pp. 253–265, 2015. [[Paper]](https://doi.org/10.3233/XST-150485)
-
-**Conference Proceedings**
-- P. Lyu, J. Zhang, L. Zhang, W. Liu\*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
-
-- J. Xiong, P. Lyu, T. Lin, K. Song, C. Wang, and **J. Zhu**\*, “A highly efficient segmentation method for abdominal multi-organs on laptop,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2024, pp. 116–131. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
-
-- R. Yin, Y. Zhang, Z. Pan, **J. Zhu**, C. Wang, and B. Jia\*, “SRPose: Two-view relative pose estimation with sparse keypoints,” in *Computer Vision – ECCV 2024*, Cham: Springer Nature Switzerland, 2025, pp. 88–107. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/frickyinn/SRPose)
-
-- P. Lyu, J. Xiong, W. Fang, W. Zhang, C. Wang, and **J. Zhu**\*, “Advancing multi-organ and pan-cancer segmentation in abdominal ct scans through scale-aware and self-attentive modulation,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2023, pp. 84–101. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-73010-8_6)[[Code]](https://github.com/lyupengju/Flare23)
-
-- C. Wang, **J. Zhu**, X. Li, S. Chen, Z. Chen, Y. Huang, Y. Wu, M. Zhan, and L. Lu\*, “Vision servoing endovascular interventional robot system: Design and verification,” in *2024 IEEE International Conference on Cyborg and Bionic Systems (CBS)*, IEEE, 2024, pp. 126–132. [[Paper]](https://doi.org/10.1109/CBS61689.2024.10860327)
-
-- P. Lyu, C. Wang, W. Fang, J. Xiong, X. Li, H. Luo, W. Liu\*, and **J. Zhu**\*, “Registration-propagated liver tumor segmentation for non-enhanced ct-based interventions,” in *International Conference on Image and Graphics*, Springer, 2023, pp. 124–136. [[Paper]](https://doi.org/10.1007/978-3-031-46314-3_10)
-
-- J. Xiong, P. Lyu, W. Fang, X. Li, C. Wang, and **J. Zhu**\*, “CAS_Next: Towards accurate and topology-preserving coronary artery segmentation in digital substraction angiography,” in *Proceedings of the 2023 4th International Conference on Control, Robotics and Intelligent System*, 2023, pp. 95–99. [[Paper]](https://doi.org/10.1145/3622896.3622913)
-
-- G. Zhang, H.-C. Wong, C. Wang, **J. Zhu**\*, L. Lu, and G.-J. Teng, “A Temporary Transformer Network for Guide-wire Segmentation,” in *2021 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, IEEE, 2021, pp. 1–5. [[Paper]](https://doi.org/10.1109/CISP-BMEI53629.2021.9624350)
-
-- **J. Zhu**, H. Luo, C. Wang, J. Lu, and G.-J. Teng\*, “Intelligent and automatic treatment planning system for low-dose-rate brachytherapy of malignant hepatic tumors,” in *Proceedings of the 2021 International Conference on Intelligent Medicine and Health*, 2021, pp. 47–52. [[Paper]](https://doi.org/10.1145/3484377.3484385)
-
-- **J. Zhu**, C. Wang, G. Zhang, S. A. Teng, L. Lu, and G.-J. Teng\*, “A multi-stage guidewire tip tracking framework for cardiovascular robotic interventions,” in *2021 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, IEEE, 2021, pp. 1–6. [[Paper]](https://doi.org/10.1109/CISP-BMEI53629.2021.9624418)
-
-- S. Guo, S. Tang, **J. Zhu**, J. Fan, D. Ai, H. Song, P. Liang, and J. Yang\*, “Improved U-net for Guidewire Tip Segmentation in X-ray Fluoroscopy Images,” in *Proceedings of the 2019 3rd International Conference on Advances in Image Processing*, 2019, pp. 55–59. [[Paper]](https://doi.org/10.1145/3373419.3373449)
-
-- **J. Zhu**, S. Song, S. Guo, D. Ai, J. Fan, H. Song, P. Liang, and J. Yang\*, “Monte Carlo Tree Search for 3D/2D Registration of Vessel Graphs,” in *2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, IEEE, 2019, pp. 787–791. [[Paper]](https://doi.org/10.1109/BIBM47256.2019.8983094)
-
-- G. Hu, **J. Zhu**, Y. Hu, J. Yu, P. Liang, and J. Yang\*, “Multi-modal Image Fusion based Anatomical Shape Model for Low-contrast Anterior Visual Pathway and Medial Rectus Muscle Segmentation in CT Images,” in *Proceedings of the 2019 8th International Conference on Bioinformatics and Biomedical Science*, 2019, pp. 40–46. [[Paper]](https://doi.org/10.1145/3369166.3369188)
-
-- W. Cong, J. Yang\*, W. Deng, and **J. Zhu**, “Automatic Radial Distortion Correction for Endoscope Image,” in *2013 6th International Congress on Image and Signal Processing (CISP)*, IEEE, vol. 2, 2013, pp. 932–937. [[Paper]](https://doi.org/10.1109/CISP.2013.6745298)
-
-Professional/Scholarly Activity
-======
-* Reviewer for journals and conferences, including:
-  * IEEE Transactions on Biomedical Engineering
-  * IEEE Journal of Biomedical and Health Informatics
-  * IEEE Transactions on Medical Imaging
-  * International Journal of Computer Assisted Radiology and Surgery
-  * International Conference on Medical Image Computing and Computer-Assisted Intervention
-  * IEEE International Conference on Multimedia&Expo
-
-Professional Certification and Awards
-======
-* 2024, First Winner Award, MICCAI Challenge on Fast, Low-resource, and Accurate oRgan and Pan-cancer sEgmentation in Abdomen CT (Flare 2024 Task2). 
-* 2023, Meritorious Winner Award, MICCAI Challenge on Fast, Low-resource, and Accurate oRgan and Pan-cancer sEgmentation in Abdomen CT (Flare 2023). 
-* 2023, First Winner Award, Liver Tumor Segmentation Task, The 6th International Symposium on Image Computing and Digital Medicine.
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <section class="home-section join-panel" id="join" aria-labelledby="join-title">
+    <div>
+      <p class="eyebrow">Join the team</p>
+      <h2 id="join-title">Build the next generation of intelligent surgical technologies</h2>
+      <p>We welcome motivated students interested in medical imaging, AI, computer-assisted intervention, and surgical robotics at the Innovation Research Center for Medical Robot.</p>
+    </div>
+    <div class="join-panel__actions">
+      <a class="home-button home-button--light" href="mailto:jjzhu@must.edu.mo?subject=Prospective%20student%20inquiry">Email Jianjun</a>
+      <a class="text-link text-link--light" href="https://fie.must.edu.mo/id-1443/article/view/id-33729.html?locale=en_US">Visit the research center <span aria-hidden="true">↗</span></a>
+      <p><span>Email</span> jjzhu@must.edu.mo<br><span>Office</span> A306b · <span>Tel</span> +853 8897 2055</p>
+    </div>
+  </section>
+</div>
