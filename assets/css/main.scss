@@ -41,3 +41,28 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+.publication-visual {
+  width: 100%;
+  margin: 0.75rem 0 2.25rem;
+}
+
+.publication-visual img {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 34vh;
+  margin: 0 auto;
+  object-fit: contain;
+  object-position: center;
+  background: #fff;
+  border: 1px solid var(--global-border-color);
+  border-radius: 0.35rem;
+}
+
+@media (max-width: 600px) {
+  .publication-visual img {
+    max-height: none;
+  }
+}
