@@ -117,6 +117,10 @@ Publications
 
 - G. Zhang, H.-C. Wong\*, **J. Zhu**\*, T. An, and C. Wang, “Jigsaw training-based background reverse attention transformer network for guidewire segmentation,” *International Journal of Computer Assisted Radiology and Surgery*, vol. 18, no. 4, pp. 653–661, 2023. [[Paper]](https://link.springer.com/article/10.1007/s11548-022-02803-z)
 
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/jigsaw-guidewire-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of jigsaw training, RPCA background modeling, and reverse-attention transformer segmentation for single and dual guidewires" loading="lazy" decoding="async">
+  </figure>
+
 - S. Jiang, S. Teng, J. Lu, C. Wang, T. Wen, **J. Zhu**, and G.-J. Teng\*, “Pixeltopois: A pixel-topology-coupled guidewire tip segmentation framework for robot-assisted intervention,” *International Journal of Computer Assisted Radiology and Surgery*, vol. 17, no. 2, pp. 329–341, 2022. [[Paper]](https://link.springer.com/article/10.1007/s11548-021-02529-4)
 
 - **J. Zhu**, H. Li, D. Ai\*, Q. Yang, J. Fan, Y. Huang, H. Song, Y. Han, and J. Yang\*, “Iterative closest graph matching for non-rigid 3d/2d coronary arteries registration,” *Computer Methods and Programs in Biomedicine*, vol. 199, p. 105 901, 2021. [[Paper]](https://doi.org/10.1016/j.cmpb.2020.105901)
@@ -125,17 +129,29 @@ Publications
 
 - **J. Zhu**, J. Fan, S. Guo, D. Ai, H. Song, C. Wang, S. Zhou, and J. Yang\*, “Heuristic tree searching for pose-independent 3d/2d rigid registration of vessel structures,” *Physics in Medicine & Biology*, vol. 65, no. 5, p. 055 010, 2020. [[Paper]](https://doi.org/10.1088/1361-6560/ab6b43)
 
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/heuristic-vessel-registration-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of heuristic tree search for pose-independent rigid registration between 3D CTA and 2D X-ray vessel structures" loading="lazy" decoding="async">
+  </figure>
+
 - H. Fang, D. Ai\*, W. Cong, S. Yang, **J. Zhu**, Y. Huang, H. Song, Y. Wang, and J. Yang\*, “Topology optimization using multiple-possibility fusion for vasculature extraction,” *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 30, no. 2, pp. 442–456, 2019. [[Paper]](https://doi.org/10.1109/TCSVT.2019.2892986)
 
 - H. Fang, **J. Zhu**, D. Ai, Y. Huang, Y. Jiang, H. Song, Y. Wang, and J. Yang\*, “Greedy soft matching for vascular tracking of coronary angiographic image sequences,” *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 30, no. 5, pp. 1466–1480, 2019. [[Paper]](https://doi.org/10.1109/TCSVT.2019.2903883)
 
 - **J. Zhu**, X. Wang, S. Ma, J. Fan, S. Song, X. Ma, D. Ai, H. Song, Y. Jiang, Y. Wang, and J. Yang\*, “Unbiased groupwise registration for shape prediction of foot scans,” *Medical & Biological Engineering & Computing*, vol. 57, pp. 1985–1998, 2019. [[Paper]](https://doi.org/10.1007/s11517-019-01992-1)
 
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/foot-groupwise-registration-graphical-abstract.webp' | relative_url }}" alt="Published graphical abstract of unbiased groupwise registration and statistical shape prediction for foot scans" loading="lazy" decoding="async">
+  </figure>
+
 - T. Fu, Q. Li, **J. Zhu**, D. Ai, Y. Huang, H. Song, Y. Jiang, Y. Wang, and J. Yang\*, “Sparse Deformation Prediction using Markove Decision Processes (MDP) for Non-rigid Registration of MR Image,” *Computer Methods and Programs in Biomedicine*, vol. 162, pp. 47–59, 2018. [[Paper]](https://doi.org/10.1016/j.cmpb.2018.04.024)
 
 - C. Wu, J. Yang\*, **J. Zhu**, W. Cong, D. Ai, H. Song, X. Liang, and Y. Wang, “Hybrid constraint optimization for 3d subcutaneous vein reconstruction by near-infrared images,” *Computer Methods and Programs in Biomedicine*, vol. 163, pp. 123–133, 2018. [[Paper]](https://doi.org/10.1016/j.cmpb.2018.06.008)
 
 - **J. Zhu**, J. Yang\*, J. Fan\*, D. Ai, Y. Jiang, H. Song, and Y. Wang, “Accurate measurement of granary stockpile volume based on fast registration of multi-station scans,” *Remote Sensing Letters*, vol. 9, no. 6, pp. 569–577, 2018. [[Paper]](https://doi.org/10.1080/2150704X.2018.1452060)
+
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/granary-stockpile-registration-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of multi-station scan registration, virtual empty-granary reconstruction, and stockpile volume measurement" loading="lazy" decoding="async">
+  </figure>
 
 - J. Yang, J. Fan, T. Fu, D. Ai, **J. Zhu**, Q. Li\*, and Y. Wang, “Convex hull matching and hierarchical decomposition for multimodality medical image registration,” *Journal of X-Ray Science and Technology*, vol. 23, no. 2, pp. 253–265, 2015. [[Paper]](https://doi.org/10.3233/XST-150485)
 
@@ -148,21 +164,49 @@ Publications
 
 - P. Lyu, J. Xiong, W. Fang, W. Zhang, C. Wang, and **J. Zhu**\*, “Advancing multi-organ and pan-cancer segmentation in abdominal ct scans through scale-aware and self-attentive modulation,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2023, pp. 84–101. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-73010-8_6)[[Code]](https://github.com/lyupengju/Flare23)
 
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/flare2023-segmentation-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of the two-phase scale-aware and self-attentive abdominal organ and pan-cancer segmentation pipeline" loading="lazy" decoding="async">
+  </figure>
+
 - C. Wang, **J. Zhu**, X. Li, S. Chen, Z. Chen, Y. Huang, Y. Wu, M. Zhan, and L. Lu\*, “Vision servoing endovascular interventional robot system: Design and verification,” in *2024 IEEE International Conference on Cyborg and Bionic Systems (CBS)*, IEEE, 2024, pp. 126–132. [[Paper]](https://doi.org/10.1109/CBS61689.2024.10860327)
 
 - P. Lyu, C. Wang, W. Fang, J. Xiong, X. Li, H. Luo, W. Liu\*, and **J. Zhu**\*, “Registration-propagated liver tumor segmentation for non-enhanced ct-based interventions,” in *International Conference on Image and Graphics*, Springer, 2023, pp. 124–136. [[Paper]](https://doi.org/10.1007/978-3-031-46314-3_10)
 
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/liver-tumor-registration-propagation-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of liver tumor segmentation in enhanced CT followed by nonrigid registration and mask propagation to intraoperative non-enhanced CT" loading="lazy" decoding="async">
+  </figure>
+
 - J. Xiong, P. Lyu, W. Fang, X. Li, C. Wang, and **J. Zhu**\*, “CAS_Next: Towards accurate and topology-preserving coronary artery segmentation in digital substraction angiography,” in *Proceedings of the 2023 4th International Conference on Control, Robotics and Intelligent System*, 2023, pp. 95–99. [[Paper]](https://doi.org/10.1145/3622896.3622913)
+
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/casnext-coronary-segmentation-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of CAS_Next using dynamic deformable convolution, global frequency filtering, and connectivity loss for topology-preserving coronary segmentation" loading="lazy" decoding="async">
+  </figure>
 
 - G. Zhang, H.-C. Wong, C. Wang, **J. Zhu**\*, L. Lu, and G.-J. Teng, “A Temporary Transformer Network for Guide-wire Segmentation,” in *2021 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, IEEE, 2021, pp. 1–5. [[Paper]](https://doi.org/10.1109/CISP-BMEI53629.2021.9624350)
 
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/temporal-transformer-guidewire-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of a temporal transformer combining previous and current fluoroscopy frames for guidewire segmentation" loading="lazy" decoding="async">
+  </figure>
+
 - **J. Zhu**, H. Luo, C. Wang, J. Lu, and G.-J. Teng\*, “Intelligent and automatic treatment planning system for low-dose-rate brachytherapy of malignant hepatic tumors,” in *Proceedings of the 2021 International Conference on Intelligent Medicine and Health*, 2021, pp. 47–52. [[Paper]](https://doi.org/10.1145/3484377.3484385)
 
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/automatic-brachytherapy-planning-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of automatic hepatic brachytherapy planning with organ segmentation, parameterized seeds, inverse dose optimization, and safe puncture paths" loading="lazy" decoding="async">
+  </figure>
+
 - **J. Zhu**, C. Wang, G. Zhang, S. A. Teng, L. Lu, and G.-J. Teng\*, “A multi-stage guidewire tip tracking framework for cardiovascular robotic interventions,” in *2021 14th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)*, IEEE, 2021, pp. 1–6. [[Paper]](https://doi.org/10.1109/CISP-BMEI53629.2021.9624418)
+
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/multistage-guidewire-tip-tracking-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of prediction, locking, tracking, and fold-back safety monitoring for a guidewire tip in robotic cardiovascular intervention" loading="lazy" decoding="async">
+  </figure>
 
 - S. Guo, S. Tang, **J. Zhu**, J. Fan, D. Ai, H. Song, P. Liang, and J. Yang\*, “Improved U-net for Guidewire Tip Segmentation in X-ray Fluoroscopy Images,” in *Proceedings of the 2019 3rd International Conference on Advances in Image Processing*, 2019, pp. 55–59. [[Paper]](https://doi.org/10.1145/3373419.3373449)
 
 - **J. Zhu**, S. Song, S. Guo, D. Ai, J. Fan, H. Song, P. Liang, and J. Yang\*, “Monte Carlo Tree Search for 3D/2D Registration of Vessel Graphs,” in *2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*, IEEE, 2019, pp. 787–791. [[Paper]](https://doi.org/10.1109/BIBM47256.2019.8983094)
+
+  <figure class="publication-visual">
+    <img src="{{ '/images/publications/mcts-vessel-graph-registration-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of Monte Carlo tree search for pose-independent matching and rigid registration between 3D and 2D vessel graphs" loading="lazy" decoding="async">
+  </figure>
 
 - G. Hu, **J. Zhu**, Y. Hu, J. Yu, P. Liang, and J. Yang\*, “Multi-modal Image Fusion based Anatomical Shape Model for Low-contrast Anterior Visual Pathway and Medial Rectus Muscle Segmentation in CT Images,” in *Proceedings of the 2019 8th International Conference on Bioinformatics and Biomedical Science*, 2019, pp. 40–46. [[Paper]](https://doi.org/10.1145/3369166.3369188)
 
