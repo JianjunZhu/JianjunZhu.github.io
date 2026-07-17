@@ -67,7 +67,7 @@ Publications
 - **J. Zhu**, L. Zhu, T. Han, Y. Zhang, P. Chen, C. Li, Y. Huang, T. Zhang, D. Zhang, Z. Cai, C. Wang, A. Song, and G.-J. Teng, “Bending-Aware Vision Co-Pilot for Intelligent Robotic Assistance in Endovascular Intervention,” *IEEE Transactions on Robotics*, Early Access, pp. 1–19, 2026. [[Paper]](https://ieeexplore.ieee.org/document/11604174)
 
   <figure class="publication-visual">
-    <img src="{{ '/images/publications/bending-aware-vision-copilot-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of a bending-aware vision co-pilot that converts DSA device segmentation and centerline curvature into closed-loop robotic assistance" loading="lazy" decoding="async">
+    <img src="{{ '/images/publications/bending-aware-vision-copilot-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of a vision Co-Pilot that blends clinician intent with bending-risk-aware assistive regulation to command a modular endovascular robot, validated in phantom and in-vivo trials" loading="lazy" decoding="async">
   </figure>
 
 - P. Lyu, J. Zhang, L. Zhang, W. Liu\*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
