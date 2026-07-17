@@ -8,7 +8,7 @@ author_profile: true
 
 Academic background, appointments, funded projects, professional service, honors, and teaching activities.
 
-Education
+Education Experience
 ======
 
 * 2020, Ph.D., Beijing Institute of Technology
@@ -20,9 +20,6 @@ Work Experience
 
 * Sep. 2025 – Present, Assistant Professor
   * School of Computer Science and Engineering, Faculty of Innovation Engineering, Macau University of Science and Technology, Macau, China.
-
-* Oct. 2020 – Aug. 2025, Research Director
-  * Hanglok-Tech. Co., Ltd., Hengqin, China
 
 * Oct. 2024 – Sep. 2025, Postdoctoral Researcher
   * Department of Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong, China.
