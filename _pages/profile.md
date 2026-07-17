@@ -27,8 +27,6 @@ Work Experience
 * Jul. 2021 – Jul. 2024, Postdoctoral Researcher
   * Department of Radiology, Zhongda Hospital, Medical School, Southeast University, Nanjing, China.
 
-* Jun. 2014 – Jun. 2015, Software Engineer
-  * LUSTER LightTech Co., Ltd., Beijing, China
 
 Research Grants
 ======
