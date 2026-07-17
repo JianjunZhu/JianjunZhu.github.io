@@ -185,33 +185,13 @@ Publications
 
 - **J. Zhu**, X. Wang, S. Ma, J. Fan, S. Song, X. Ma, D. Ai, H. Song, Y. Jiang, Y. Wang, and J. Yang\*, “Unbiased groupwise registration for shape prediction of foot scans,” *Medical & Biological Engineering & Computing*, vol. 57, pp. 1985–1998, 2019. [[Paper]](https://doi.org/10.1007/s11517-019-01992-1)
 
-  <figure class="publication-visual">
-    <img src="{{ '/images/publications/foot-groupwise-registration-graphical-abstract.webp' | relative_url }}" alt="Published graphical abstract of unbiased groupwise registration and statistical shape prediction for foot scans" loading="lazy" decoding="async">
-  </figure>
-
 - T. Fu, Q. Li, **J. Zhu**, D. Ai, Y. Huang, H. Song, Y. Jiang, Y. Wang, and J. Yang\*, “Sparse Deformation Prediction using Markove Decision Processes (MDP) for Non-rigid Registration of MR Image,” *Computer Methods and Programs in Biomedicine*, vol. 162, pp. 47–59, 2018. [[Paper]](https://doi.org/10.1016/j.cmpb.2018.04.024)
-
-  <figure class="publication-visual">
-    <img src="{{ '/images/publications/mdp-mr-registration-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of MDP-guided patch matching, sparse deformation prediction, and thin-plate-spline interpolation for brain MR registration" loading="lazy" decoding="async">
-  </figure>
 
 - C. Wu, J. Yang\*, **J. Zhu**, W. Cong, D. Ai, H. Song, X. Liang, and Y. Wang, “Hybrid constraint optimization for 3d subcutaneous vein reconstruction by near-infrared images,” *Computer Methods and Programs in Biomedicine*, vol. 163, pp. 123–133, 2018. [[Paper]](https://doi.org/10.1016/j.cmpb.2018.06.008)
 
-  <figure class="publication-visual">
-    <img src="{{ '/images/publications/nir-vein-reconstruction-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of stereo near-infrared vein matching, homography constraints, section correspondence, and calibrated three-dimensional reconstruction" loading="lazy" decoding="async">
-  </figure>
-
 - **J. Zhu**, J. Yang\*, J. Fan\*, D. Ai, Y. Jiang, H. Song, and Y. Wang, “Accurate measurement of granary stockpile volume based on fast registration of multi-station scans,” *Remote Sensing Letters*, vol. 9, no. 6, pp. 569–577, 2018. [[Paper]](https://doi.org/10.1080/2150704X.2018.1452060)
 
-  <figure class="publication-visual">
-    <img src="{{ '/images/publications/granary-stockpile-registration-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of multi-station scan registration, virtual empty-granary reconstruction, and stockpile volume measurement" loading="lazy" decoding="async">
-  </figure>
-
 - J. Yang, J. Fan, T. Fu, D. Ai, **J. Zhu**, Q. Li\*, and Y. Wang, “Convex hull matching and hierarchical decomposition for multimodality medical image registration,” *Journal of X-Ray Science and Technology*, vol. 23, no. 2, pp. 253–265, 2015. [[Paper]](https://doi.org/10.3233/XST-150485)
-
-  <figure class="publication-visual">
-    <img src="{{ '/images/publications/multimodality-registration-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of convex-hull initialization and hierarchical affine and nonrigid registration for multimodal medical volumes" loading="lazy" decoding="async">
-  </figure>
 
 **Conference Proceedings**
 - P. Lyu, J. Zhang, L. Zhang, W. Liu\*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
@@ -219,10 +199,6 @@ Publications
 - J. Xiong, P. Lyu, T. Lin, K. Song, C. Wang, and **J. Zhu**\*, “A highly efficient segmentation method for abdominal multi-organs on laptop,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2024, pp. 116–131. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
 
 - R. Yin, Y. Zhang, Z. Pan, **J. Zhu**, C. Wang, and B. Jia\*, “SRPose: Two-view relative pose estimation with sparse keypoints,” in *Computer Vision – ECCV 2024*, Cham: Springer Nature Switzerland, 2025, pp. 88–107. [[Paper]](https://doi.org/10.1007/978-3-031-73010-8_6) [[Code]](https://github.com/frickyinn/SRPose)
-
-  <figure class="publication-visual">
-    <img src="{{ '/images/publications/srpose-relative-pose-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of SRPose using sparse keypoints, intrinsic-calibration position encoding, prior-guided attention, and shared regression for camera-to-world and object-to-camera relative pose estimation" loading="lazy" decoding="async">
-  </figure>
 
 - P. Lyu, J. Xiong, W. Fang, W. Zhang, C. Wang, and **J. Zhu**\*, “Advancing multi-organ and pan-cancer segmentation in abdominal ct scans through scale-aware and self-attentive modulation,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2023, pp. 84–101. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-73010-8_6)[[Code]](https://github.com/lyupengju/Flare23)
 
@@ -285,10 +261,6 @@ Publications
   </figure>
 
 - W. Cong, J. Yang\*, W. Deng, and **J. Zhu**, “Automatic Radial Distortion Correction for Endoscope Image,” in *2013 6th International Congress on Image and Signal Processing (CISP)*, IEEE, vol. 2, 2013, pp. 932–937. [[Paper]](https://doi.org/10.1109/CISP.2013.6745298)
-
-  <figure class="publication-visual">
-    <img src="{{ '/images/publications/endoscope-distortion-correction-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of endoscope calibration through corner matching, spherical projection, mapping optimization, and radial distortion correction" loading="lazy" decoding="async">
-  </figure>
 
 Professional Service
 ======
