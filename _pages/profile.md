@@ -49,6 +49,9 @@ Research Grants
 Professional Service
 ======
 
+* Guest Editor, *The International Journal of Medical Robotics and Computer Assisted Surgery* (Wiley), 2026 – 2027.
+  * Special Issue: [Chinese Domestic Surgical Robots: Technology, Preclinical Evidence, Clinical Trials and Comparative Studies](https://onlinelibrary.wiley.com/page/journal/1478596x/call-for-papers/si-2026-000600).
+  * Submission deadline: 30 April 2027.
 * Reviewer for journals and conferences, including:
   * IEEE Transactions on Biomedical Engineering
   * IEEE Journal of Biomedical and Health Informatics
