@@ -19,7 +19,7 @@ Publications
 
 **Selected**
 
-- **J. Zhu**, L. Zhu, T. Han, Y. Zhang, P. Chen, C. Li, Y. Huang, T. Zhang, D. Zhang, Z. Cai, C. Wang, A. Song, and G.-J. Teng, “Bending-Aware Vision Co-Pilot for Intelligent Robotic Assistance in Endovascular Intervention,” *IEEE Transactions on Robotics*, Early Access, pp. 1–19, 2026. [[Paper]](https://ieeexplore.ieee.org/document/11604174)
+- **J. Zhu**, L. Zhu, T. Han, Y. Zhang, P. Chen, C. Li, Y. Huang, T. Zhang, D. Zhang, Z. Cai, C. Wang, A. Song, and G.-J. Teng, “Bending-Aware Vision Co-Pilot for Intelligent Robotic Assistance in Endovascular Intervention,” *IEEE Transactions on Robotics*, vol. 42, pp. 2990–3008, 2026. [[Paper]](https://ieeexplore.ieee.org/document/11604174)
 
   <p class="publication-summary">A vision-based Co-Pilot combines clinician commands with bending-risk-aware assistance for endovascular robot control, with validation in robotic phantom and in-vivo experiments.</p>
 
@@ -69,7 +69,7 @@ Publications
 
 **Journal Articles**
 
-- **J. Zhu**, L. Zhu, T. Han, Y. Zhang, P. Chen, C. Li, Y. Huang, T. Zhang, D. Zhang, Z. Cai, C. Wang, A. Song, and G.-J. Teng, “Bending-Aware Vision Co-Pilot for Intelligent Robotic Assistance in Endovascular Intervention,” *IEEE Transactions on Robotics*, Early Access, pp. 1–19, 2026. [[Paper]](https://ieeexplore.ieee.org/document/11604174)
+- **J. Zhu**, L. Zhu, T. Han, Y. Zhang, P. Chen, C. Li, Y. Huang, T. Zhang, D. Zhang, Z. Cai, C. Wang, A. Song, and G.-J. Teng, “Bending-Aware Vision Co-Pilot for Intelligent Robotic Assistance in Endovascular Intervention,” *IEEE Transactions on Robotics*, vol. 42, pp. 2990–3008, 2026. [[Paper]](https://ieeexplore.ieee.org/document/11604174)
 
 - Y. Liu, Y. Wang, J. Xiao, X. He, C. Wang, **J. Zhu**, P. Lv, H. Cai, L. Qiu, Y. Zhu, Y. Li, and L. Lu, “Computed Tomography and Ultrasound-guided Robotic Assistance in Percutaneous Puncture in Abdominal Phantom and Porcine Liver Models,” *IEEE Transactions on Medical Robotics and Bionics*, vol. 7, no. 2, pp. 542–549, 2025. [[Paper]](https://doi.org/10.1109/TMRB.2025.3550644)
 
