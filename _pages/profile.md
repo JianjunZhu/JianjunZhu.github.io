@@ -31,23 +31,23 @@ Work Experience
 Research Grants
 ======
 
-* Science and Technology Development Fund of Macau (0018/2026/ITP1)
+* Science and Technology Development Fund of Macau (0018/2026/ITP1), 2026 – 2028
   * Title: Study on Liver Cancer Detection and Localization Using a Liver CT Vision–Language Foundation Model Based on Multi-Granularity Semantic Alignment.
   * Role: Principal Investigator.
 
-* Macau University of Science and Technology Faculty Research Grant (FRG-26-032-FIE)
+* Macau University of Science and Technology Faculty Research Grant (FRG-26-032-FIE), 2026 – 2027
   * Title: Research on Cross-phase and Syncretic Medical Image Translation Method for Small-lesion Detection in Liver Tumors.
   * Role: Principal Investigator.
 
-* National Key Research and Development Program (2024YFE0201700)
+* National Key Research and Development Program (2024YFE0201700), 2025 – 2027
   * Title: Study on Interventional Surgical Robot Diagnosis and Treatment System for Intracerebral Artery Disease.
   * Role: Principal Investigator of Sub-task.
 
-* National Natural Science Foundation of China (No. 82402410)
+* National Natural Science Foundation of China (No. 82402410), 2025 – 2027
   * Title: Research on Instrument Force Perception and Safety Control Methods for Vascular Interventional Robot Based on Multimodal AI Models.
   * Role: Principal Investigator.
 
-* China Postdoctoral Science Foundation (No. 2021M700772)
+* China Postdoctoral Science Foundation (No. 2021M700772), 2021 – 2024
   * Title: Instrument Positioning and Intelligent Control for Endovascular Interventional Robot.
   * Role: Principal Investigator.
 
