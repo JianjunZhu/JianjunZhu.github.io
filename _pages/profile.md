@@ -35,19 +35,19 @@ Research Grants
   * Title: Study on Liver Cancer Detection and Localization Using a Liver CT Vision–Language Foundation Model Based on Multi-Granularity Semantic Alignment.
   * Role: Principal Investigator.
 
-* Macau University of Science and Technology Faculty Research Grant (FRG-26-032-FIE), 2026 – 2027
+* Macau University of Science and Technology Faculty Research Grant, General Research Project (FRG-26-032-FIE), 2026 – 2027
   * Title: Research on Cross-phase and Syncretic Medical Image Translation Method for Small-lesion Detection in Liver Tumors.
   * Role: Principal Investigator.
 
 * National Key Research and Development Program (2024YFE0201700), 2025 – 2027
   * Title: Study on Interventional Surgical Robot Diagnosis and Treatment System for Intracerebral Artery Disease.
-  * Role: Principal Investigator of Sub-task.
+  * Role: Co-PI.
 
-* National Natural Science Foundation of China (No. 82402410), 2025 – 2027
+* National Natural Science Foundation of China, Young Scientists Fund (No. 82402410), 2025 – 2027
   * Title: Research on Instrument Force Perception and Safety Control Methods for Vascular Interventional Robot Based on Multimodal AI Models.
   * Role: Principal Investigator.
 
-* China Postdoctoral Science Foundation (No. 2021M700772), 2021 – 2024
+* China Postdoctoral Science Foundation, General Program, 70th Round, Second Tier (No. 2021M700772), 2021 – 2024
   * Title: Instrument Positioning and Intelligent Control for Endovascular Interventional Robot.
   * Role: Principal Investigator.
 
@@ -68,6 +68,8 @@ Professional Service
 Honors and Awards
 ======
 
+* 2026, **Champion Awards**, [MICCAI Airway Tree Modeling Challenge (ATM’26)](https://atm26.grand-challenge.org/final-test-results-for-miccai-2026-workshop/), Track 1 (Binary Airway Segmentation) and Track 2 (Branch-wise Anatomical Labeling).
+* 2026, **Team First Place** (MUST-MEDAI), [MICCAI TopAneu Challenge](https://topaneu-26.grand-challenge.org/results/), Task 1 (Vessel-Specific Classification) and Task 2 (Vessel-Specific Segmentation).
 * 2024, First Winner Award, MICCAI Challenge on Fast, Low-resource, and Accurate oRgan and Pan-cancer sEgmentation in Abdomen CT (Flare 2024 Task2).
 * 2023, Meritorious Winner Award, MICCAI Challenge on Fast, Low-resource, and Accurate oRgan and Pan-cancer sEgmentation in Abdomen CT (Flare 2023).
 * 2023, First Winner Award, Liver Tumor Segmentation Task, The 6th International Symposium on Image Computing and Digital Medicine.

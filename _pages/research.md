@@ -35,7 +35,7 @@ Publications
     <img src="{{ '/images/publications/metaunetr-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of MetaUNETR, from 3D abdominal CT through TriCruci token mixing and an efficient encoder to multi-organ segmentation" loading="lazy" decoding="async">
   </figure>
 
-- J. Xiong, P. Lyu, T. Lin, K. Song, C. Wang, and **J. Zhu**\*, “A highly efficient segmentation method for abdominal multi-organs on laptop,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2024, pp. 116–131. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
+- J. Xiong, P. Lyu, T. Lin, K. Song, C. Wang, and **J. Zhu**\*, “A highly efficient segmentation method for abdominal multi-organs on laptop,” in *Fast, Low-Resource, Accurate Robust Organ and Pan-cancer Segmentation (FLARE 2024)*, Springer, 2026, pp. 116–131. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
 
   <p class="publication-summary">A lightweight two-phase pipeline enables accurate abdominal multi-organ segmentation under the memory and speed constraints of an ordinary laptop.</p>
 
@@ -43,7 +43,7 @@ Publications
     <img src="{{ '/images/publications/flare2024-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of the two-phase lightweight abdominal multi-organ segmentation pipeline designed for laptop inference" loading="lazy" decoding="async">
   </figure>
 
-- **J. Zhu**, C. Wang, Y. Zhang, M. Zhan, W. Zhao, S. Teng, L. Lu\*, and G.-J. Teng\*, “3D/2D Vessel Registration based on Monte Carlo Tree Search and Manifold Regularization,” *IEEE Transactions on Medical Imaging*, vol. 43, no. 5, pp. 1727–1739, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10375552)
+- **J. Zhu**, C. Wang, Y. Zhang, M. Zhan, W. Zhao, S. Teng, L. Lu\*, and G.-J. Teng\*, “3D/2D Vessel Registration based on Monte Carlo Tree Search and Manifold Regularization,” *IEEE Transactions on Medical Imaging*, vol. 43, no. 5, pp. 1727–1739, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10375552)
 
   <p class="publication-summary">Monte Carlo tree search and manifold regularization align preoperative 3D vessels with intraoperative 2D angiography across rigid and non-rigid deformation.</p>
 
@@ -71,11 +71,19 @@ Publications
 
 - **J. Zhu**, L. Zhu, T. Han, Y. Zhang, P. Chen, C. Li, Y. Huang, T. Zhang, D. Zhang, Z. Cai, C. Wang, A. Song, and G.-J. Teng, “Bending-Aware Vision Co-Pilot for Intelligent Robotic Assistance in Endovascular Intervention,” *IEEE Transactions on Robotics*, vol. 42, pp. 2990–3008, 2026. [[Paper]](https://ieeexplore.ieee.org/document/11604174)
 
+- P. Chen, **J. Zhu**, X. Wang, J. Xiong, C. Li, T. Han, and D. Zhang\*, “AirwaySeekNet: Fine-Grained Segmentation and Completion of Peripheral Pulmonary Airways with Dynamic Reliability-Aware Supervision,” *AI*, vol. 7, no. 2, Art. no. 40, 2026. [[Paper]](https://doi.org/10.3390/ai7020040)
+
+- T. Rueckert, D. Rauber, R. Maerkl, L. Klausmann, S. R. Yildiran, M. Gutbrod, D. W. Nunes, A. F. Moreno, I. Luengo, D. Stoyanov, N. Toussaint, E. Cho, H. B. Kim, O. S. Choo, K. Y. Kim, S. T. Kim, G. Arantes, K. Song, **J. Zhu**, J. Xiong, T. Lin, S. Kikuchi, H. Matsuzaki, A. Kouno, J. R. R. Manesco, J. P. Papa, T.-M. Choi, T. K. Jeong, J. Park, O. Alabi, M. Wei, T. Vercauteren, R. Wu, M. Xu, A. Wang, L. Bai, H. Ren, A. Yamlahi, J. Hennighausen, L. Maier-Hein, S. Kondo, S. Kasai, K. Hirasawa, S. Yang, Y. Wang, H. Chen, S. Rodríguez, N. Aparicio, L. Manrique, J. C. Lyons, O. Hosie, N. Ayobi, P. Arbeláez, Y. Li, Y. Al Khalil, S. Nasirihaghighi, S. Speidel, D. Rueckert, H. Feussner, D. Wilhelm, and C. Palm, “Comparative validation of surgical phase recognition, instrument keypoint estimation, and instrument instance segmentation in endoscopy: Results of the PhaKIR 2024 challenge,” *Medical Image Analysis*, vol. 109, Art. no. 103945, 2026. [[Paper]](https://doi.org/10.1016/j.media.2026.103945)
+
+- X. Jin, A. Song, **J. Zhu**, C. Wang, Y. Zhang, and L. Zhu, “A Novel Haptic Feedback-Based Interaction Control Strategy for Robot-Assisted Vascular Interventional Surgery,” *IEEE Sensors Journal*, vol. 25, no. 18, pp. 34491–34501, 2025. [[Paper]](https://doi.org/10.1109/JSEN.2025.3596106)
+
 - Y. Liu, Y. Wang, J. Xiao, X. He, C. Wang, **J. Zhu**, P. Lv, H. Cai, L. Qiu, Y. Zhu, Y. Li, and L. Lu, “Computed Tomography and Ultrasound-guided Robotic Assistance in Percutaneous Puncture in Abdominal Phantom and Porcine Liver Models,” *IEEE Transactions on Medical Robotics and Bionics*, vol. 7, no. 2, pp. 542–549, 2025. [[Paper]](https://doi.org/10.1109/TMRB.2025.3550644)
 
   <figure class="publication-visual">
     <img src="{{ '/images/publications/ct-ultrasound-robotic-puncture-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of CT and ultrasound fusion guidance for robotic abdominal puncture in phantom and porcine liver models" loading="lazy" decoding="async">
   </figure>
+
+- T. Han, J. Xiong, T. Lin, T. An, C. Wang, **J. Zhu**, Z. Li, L. Lu, Y. Zhang, and G.-J. Teng, “Multiscale attention network via topology learning for cerebral vessel segmentation in angiography images,” *EngMedicine*, vol. 1, no. 1, Art. no. 100004, 2024. [[Paper]](https://doi.org/10.1016/j.engmed.2024.100004)
 
 - Y. Li, N. Fan, X. He, **J. Zhu**, J. Zhang\*, and L. Lu\*, “Research Progress in Predicting Hepatocellular Carcinoma with Portal Vein Tumour Thrombus in the Era of Artificial Intelligence,” *Journal of Hepatocellular Carcinoma*, pp. 1429–1438, 2024. [[Paper]](https://doi.org/10.2147/JHC.S474922)
 
@@ -109,13 +117,15 @@ Publications
 
 - **J. Zhu**, C. Wang, S. Teng, J. Lu, P. Lyu, P. Zhang, J. Xu, L. Lu\*, and G.-J. Teng\*, “Embedding expertise knowledge into inverse treatment planning for low-dose-rate brachytherapy of hepatic malignancies,” *Medical Physics*, vol. 51, no. 1, pp. 348–362, 2024. [[Paper]](https://doi.org/10.1002/mp.16627)
 
-- **J. Zhu**, C. Wang, Y. Zhang, M. Zhan, W. Zhao, S. Teng, L. Lu\*, and G.-J. Teng\*, “3D/2D Vessel Registration based on Monte Carlo Tree Search and Manifold Regularization,” *IEEE Transactions on Medical Imaging*, vol. 43, no. 5, pp. 1727–1739, 2023. [[Paper]](https://ieeexplore.ieee.org/document/10375552)
+- **J. Zhu**, C. Wang, Y. Zhang, M. Zhan, W. Zhao, S. Teng, L. Lu\*, and G.-J. Teng\*, “3D/2D Vessel Registration based on Monte Carlo Tree Search and Manifold Regularization,” *IEEE Transactions on Medical Imaging*, vol. 43, no. 5, pp. 1727–1739, 2024. [[Paper]](https://ieeexplore.ieee.org/document/10375552)
 
 - G. Zhang, H.-C. Wong\*, **J. Zhu**\*, T. An, and C. Wang, “Jigsaw training-based background reverse attention transformer network for guidewire segmentation,” *International Journal of Computer Assisted Radiology and Surgery*, vol. 18, no. 4, pp. 653–661, 2023. [[Paper]](https://link.springer.com/article/10.1007/s11548-022-02803-z)
 
   <figure class="publication-visual">
     <img src="{{ '/images/publications/jigsaw-guidewire-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of jigsaw training, RPCA background modeling, and reverse-attention transformer segmentation for single and dual guidewires" loading="lazy" decoding="async">
   </figure>
+
+- P. Lyu, C. Wang, **J. Zhu**, J. Lu, H. Zhu, and G. Teng\*, “Application of Artificial Intelligence Algorithms for Medical Image Multi-Organ Segmentation in the Field of Medicine,” *Progress in Pharmaceutical Sciences*, vol. 47, no. 10, pp. 751–757, 2023, in Chinese. [[Paper]](https://doi.org/10.20053/j.issn1001-5094.2023.10.005)
 
 - S. Jiang, S. Teng, J. Lu, C. Wang, T. Wen, **J. Zhu**, and G.-J. Teng\*, “Pixeltopois: A pixel-topology-coupled guidewire tip segmentation framework for robot-assisted intervention,” *International Journal of Computer Assisted Radiology and Surgery*, vol. 17, no. 2, pp. 329–341, 2022. [[Paper]](https://link.springer.com/article/10.1007/s11548-021-02529-4)
 
@@ -124,6 +134,8 @@ Publications
   </figure>
 
 - **J. Zhu**, H. Li, D. Ai\*, Q. Yang, J. Fan, Y. Huang, H. Song, Y. Han, and J. Yang\*, “Iterative closest graph matching for non-rigid 3d/2d coronary arteries registration,” *Computer Methods and Programs in Biomedicine*, vol. 199, p. 105 901, 2021. [[Paper]](https://doi.org/10.1016/j.cmpb.2020.105901)
+
+- X. Song, **J. Zhu**, J. Fan, D. Ai, and J. Yang, “Topological distance-constrained feature descriptor learning model for vessel matching in coronary angiographies,” *Virtual Reality & Intelligent Hardware*, vol. 3, no. 4, pp. 287–301, 2021. [[Paper]](https://doi.org/10.1016/j.vrih.2021.08.003)
 
 - J. Yang, **J. Zhu**, D. Y. Sze, L. Cui, X. Li, Y. Bai, D. Ai, J. Fan, H. Song, and F. Duan\*, “Feasibility of augmented reality–guided transjugular intrahepatic portosystemic shunt,” *Journal of Vascular and Interventional Radiology*, vol. 31, no. 12, pp. 2098–2103, 2020. [[Paper]](https://doi.org/10.1016/j.jvir.2020.07.025)
 
@@ -137,13 +149,13 @@ Publications
     <img src="{{ '/images/publications/heuristic-vessel-registration-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of heuristic tree search for pose-independent rigid registration between 3D CTA and 2D X-ray vessel structures" loading="lazy" decoding="async">
   </figure>
 
-- H. Fang, D. Ai\*, W. Cong, S. Yang, **J. Zhu**, Y. Huang, H. Song, Y. Wang, and J. Yang\*, “Topology optimization using multiple-possibility fusion for vasculature extraction,” *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 30, no. 2, pp. 442–456, 2019. [[Paper]](https://doi.org/10.1109/TCSVT.2019.2892986)
+- H. Fang, D. Ai\*, W. Cong, S. Yang, **J. Zhu**, Y. Huang, H. Song, Y. Wang, and J. Yang\*, “Topology optimization using multiple-possibility fusion for vasculature extraction,” *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 30, no. 2, pp. 442–456, 2020. [[Paper]](https://doi.org/10.1109/TCSVT.2019.2892986)
 
   <figure class="publication-visual">
     <img src="{{ '/images/publications/topology-optimized-vasculature-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of vasculature extraction through initial centerlines, connection-probability estimation, and shortest-path gap filling" loading="lazy" decoding="async">
   </figure>
 
-- H. Fang, **J. Zhu**, D. Ai, Y. Huang, Y. Jiang, H. Song, Y. Wang, and J. Yang\*, “Greedy soft matching for vascular tracking of coronary angiographic image sequences,” *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 30, no. 5, pp. 1466–1480, 2019. [[Paper]](https://doi.org/10.1109/TCSVT.2019.2903883)
+- H. Fang, **J. Zhu**, D. Ai, Y. Huang, Y. Jiang, H. Song, Y. Wang, and J. Yang\*, “Greedy soft matching for vascular tracking of coronary angiographic image sequences,” *IEEE Transactions on Circuits and Systems for Video Technology*, vol. 30, no. 5, pp. 1466–1480, 2020. [[Paper]](https://doi.org/10.1109/TCSVT.2019.2903883)
 
   <figure class="publication-visual">
     <img src="{{ '/images/publications/greedy-vascular-tracking-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of greedy graph search and soft batch matching for deformable vascular tracking across coronary angiograms" loading="lazy" decoding="async">
@@ -157,23 +169,27 @@ Publications
 
 - **J. Zhu**, J. Yang\*, J. Fan\*, D. Ai, Y. Jiang, H. Song, and Y. Wang, “Accurate measurement of granary stockpile volume based on fast registration of multi-station scans,” *Remote Sensing Letters*, vol. 9, no. 6, pp. 569–577, 2018. [[Paper]](https://doi.org/10.1080/2150704X.2018.1452060)
 
+- X. Liu, J. Yang, S. Song, H. Song, D. Ai, **J. Zhu**, Y. Jiang, and Y. Wang, “Multi-layer cube sampling for liver boundary detection in PET–CT images,” *Australasian Physical & Engineering Sciences in Medicine*, vol. 41, no. 2, pp. 495–505, 2018. [[Paper]](https://doi.org/10.1007/s13246-018-0650-y)
+
 - J. Yang, J. Fan, T. Fu, D. Ai, **J. Zhu**, Q. Li\*, and Y. Wang, “Convex hull matching and hierarchical decomposition for multimodality medical image registration,” *Journal of X-Ray Science and Technology*, vol. 23, no. 2, pp. 253–265, 2015. [[Paper]](https://doi.org/10.3233/XST-150485)
 
 **Conference Proceedings**
 
-- P. Lyu, J. Zhang, L. Zhang, W. Liu\*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
-
-- J. Xiong, P. Lyu, T. Lin, K. Song, C. Wang, and **J. Zhu**\*, “A highly efficient segmentation method for abdominal multi-organs on laptop,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2024, pp. 116–131. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
+- J. Xiong, P. Lyu, T. Lin, K. Song, C. Wang, and **J. Zhu**\*, “A highly efficient segmentation method for abdominal multi-organs on laptop,” in *Fast, Low-Resource, Accurate Robust Organ and Pan-cancer Segmentation (FLARE 2024)*, Springer, 2026, pp. 116–131. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-96202-8_11) [[Code]](https://github.com/JCXiong1227/FLARE2024)
 
 - R. Yin, Y. Zhang, Z. Pan, **J. Zhu**, C. Wang, and B. Jia\*, “SRPose: Two-view relative pose estimation with sparse keypoints,” in *Computer Vision – ECCV 2024*, Cham: Springer Nature Switzerland, 2025, pp. 88–107. [[Paper]](https://doi.org/10.1007/978-3-031-73010-8_6) [[Code]](https://github.com/frickyinn/SRPose)
 
-- P. Lyu, J. Xiong, W. Fang, W. Zhang, C. Wang, and **J. Zhu**\*, “Advancing multi-organ and pan-cancer segmentation in abdominal ct scans through scale-aware and self-attentive modulation,” in *MICCAI Challenge on Fast and Low-Resource Semi-supervised Abdominal Organ Segmentation*, Springer, 2023, pp. 84–101. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-73010-8_6)[[Code]](https://github.com/lyupengju/Flare23)
+- P. Lyu, J. Zhang, L. Zhang, W. Liu\*, C. Wang, and **J. Zhu**\*, “Metaunetr: Rethinking token mixer encoding for efficient multi-organ segmentation,” in *International Conference on Medical Image Computing and Computer-Assisted Intervention*, Springer, 2024, pp. 446–455.[[Paper]](https://doi.org/10.1007/978-3-031-72114-4_43)[[Code]](https://github.com/lyupengju/MetaUNETR)
+
+- P. Lyu, J. Xiong, W. Fang, W. Zhang, C. Wang, and **J. Zhu**\*, “Advancing multi-organ and pan-cancer segmentation in abdominal ct scans through scale-aware and self-attentive modulation,” in *Fast, Low-resource, and Accurate Organ and Pan-cancer Segmentation in Abdomen CT (FLARE 2023)*, Springer, 2024, pp. 84–101. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-58776-4_8) [[Code]](https://github.com/lyupengju/Flare23)
 
   <figure class="publication-visual">
     <img src="{{ '/images/publications/flare2023-segmentation-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of the two-phase scale-aware and self-attentive abdominal organ and pan-cancer segmentation pipeline" loading="lazy" decoding="async">
   </figure>
 
-- C. Wang, **J. Zhu**, X. Li, S. Chen, Z. Chen, Y. Huang, Y. Wu, M. Zhan, and L. Lu\*, “Vision servoing endovascular interventional robot system: Design and verification,” in *2024 IEEE International Conference on Cyborg and Bionic Systems (CBS)*, IEEE, 2024, pp. 126–132. [[Paper]](https://doi.org/10.1109/CBS61689.2024.10860327)
+- C. Wang†, **J. Zhu**†, X. Li, S. Chen, Z. Chen, Y. Huang, Y. Wu, M. Zhan, and L. Lu\*, “Vision servoing endovascular interventional robot system: Design and verification,” in *2024 IEEE International Conference on Cyborg and Bionic Systems (CBS)*, IEEE, 2024, pp. 126–132. [[Paper]](https://doi.org/10.1109/CBS61689.2024.10860327)
+
+  † The first two authors contributed equally.
 
   <figure class="publication-visual">
     <img src="{{ '/images/publications/vision-servoing-robot-graphical-abstract.webp' | relative_url }}" alt="Graphical abstract of vision-servoed microwire segmentation, bending-energy estimation, safety constraints, and closed-loop endovascular robot control" loading="lazy" decoding="async">
